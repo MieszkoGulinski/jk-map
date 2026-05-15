@@ -1,0 +1,438 @@
+ ,,Powiat Bytów,YW,,,N,E,
+1,1,Bluj (Głodowo),YW01,Miastko ,YW06,"54,02","17,11",Miastko YW06
+2,2,Bobięcińskie Małe,YW02,Miastko ,YW06,"54,01","16,49",Miastko YW06
+3,3,Bobięcińskie Wielkie,YW03,Miastko ,YW06,54,"16,48",Miastko YW06
+4,4,Borzyszkowskie,YW04,Lipnica ,YW05,"54,02","17,21",Lipnica YW05
+5,5,Byczyńskie,YW05,Miastko ,YW06,"54,02","16,57",Miastko YW06
+6,6,Brzezinek Duży,YW06,Lipnica ,YW05,"54,01","17,14",Lipnica YW05
+7,7,Cechyńskie Małe,YW07,Studzienice ,YW08,"54,1","17,33",Studzienice YW08
+8,8,CechyńskieDuże,YW08,Studzienice ,YW08,"54,1","17,34",Studzienice YW08
+9,9,Cicha Woda,YW09,Borzytuchom ,YW01,,,Borzytuchom YW01
+10,10,Chotkowskie,YW10,Borzytuchom ,YW01,"54,09","17,21",Borzytuchom YW01
+11,11,Czarne (Unichowo),YW11,Czarna Dąbrówka ,YW03,"54,16","17,26",Czarna Dąbrówka YW03
+12,12,Czarne Dąbrówno,YW12,Studzienice ,YW08,"54,07","17,36",Studzienice YW08
+13,13,Czeruch,YW13,Studzienice ,YW08,,,Studzienice YW08
+14,14,Dąbie Duże i Małe,YW14,Bytów ,YW02,"54,12","17,29",Bytów YW02
+15,15,Długie,YW15,Lipnica ,YW05,"53,58","17,16",Lipnica YW05
+16,16,Długie,YW16,Lipnica ,YW05,"53 55,98","17 28,36",Lipnica YW05
+17,17,Długie (Kartkowskie),YW17,Czarna Dąbrówka ,YW03,54 16.91,17 28.07,Czarna Dąbrówka YW03
+18,18,Długie (osława) Dłużecko,YW18,Studzienice ,YW08,"54,06","17,37",Studzienice YW08
+19,19,Długie,YW19,Tuchomie ,YW10,54 08.26,17 23.33,Tuchomie YW10
+20,20,Dolskie,YW20,Miastko ,YW06,"54,01","17,05",Miastko YW06
+21,21,Duża Boruja,YW21,Bytów ,YW02,"54,05","17,26",Bytów YW02
+22,22,Duże,YW22,Borzytuchom ,YW01,"54,12","17,21",Borzytuchom YW01
+23,23,Glinowskie,YW23,Studzienice ,YW08,"54,09","17,39",Studzienice YW08
+24,24,Gliszczonek,YW24,Lipnica ,YW05,54 04.07,17 21.95,Lipnica YW05
+25,25,Głęboczko,YW25,Bytów ,YW02,"54,11","17,33",Bytów YW02
+26,26,Głębokie (Pietrzykowskie Duże),YW26,Miastko ,YW06,"53,58","17,06",Miastko YW06
+27,27,Graniczne,YW27,Kołczygłowy ,YW04,"54,08","17,13",Kołczygłowy YW04
+28,28,Gromadzkie,YW28,Studzienice ,YW08,54 06.67,17 31.95,Studzienice YW08
+29,29,Gubisz,YW29,Bytów ,YW02,"54,08","17,35",Bytów YW02
+30,30,Gwiazdy Duże,YW30,Lipnica ,YW05,"53,58","17,17",Lipnica YW05
+31,31,Gwieździniec,YW31,Lipnica ,YW05,54,"17,15",Lipnica YW05
+32,32,Jasień Południowy,YW32,Czarna Dąbrówka ,YW03,"54,16","17,36",Czarna Dąbrówka YW03
+33,33,Jasień Północny,YW33,Czarna Dąbrówka ,YW03,"54,18","17,36",Czarna Dąbrówka YW03
+34,34,Jeleń ,YW34,Bytów ,YW02,"54,12","17,31",Bytów YW02
+35,35,Kamieniczno,YW35,Lipnica ,YW05,"54,03","17,2",Lipnica YW05
+36,36,Kamieniczno,YW36,powtórka j. yw35,,,,USUNIĘTE Tuchomie YW10 powtórka j. yw35
+37,37,Kamień Duży /Kamienne,YW37,Miastko ,YW06,"54,01","17,03",Miastko YW06
+38,38,Kamnickie,YW38,Miastko ,YW06,54,"16,53",Miastko YW06
+39,39,Karwińskie Duże,YW39,Czarna Dąbrówka ,YW03,"54,22","17,31",Czarna Dąbrówka YW03
+40,40,Kiedrowickie,YW40,Lipnica ,YW05,"53,59","17,25",Lipnica YW05
+41,41,Kielskie,YW41,Lipnica ,YW05,"54,01","17,31",Lipnica YW05
+42,42,Kłączno,YW42,Studzienice ,YW08,"54,04","17,32",Studzienice YW08
+43,43,Kopieniec,YW43,Czarna Dąbrówka ,YW03,"54,2","17,33",Czarna Dąbrówka YW03
+44,44,Kopieniec Duży,YW44,Czarna Dąbrówka ,YW03,"54,2","17,32",Czarna Dąbrówka YW03
+45,45,Kościelne,YW45,Miastko ,YW06,"53,59","16,55",Miastko YW06
+46,46,Kozińskie (kozie),YW46,Czarna Dąbrówka ,YW03,"54,23","17,34",Czarna Dąbrówka YW03
+47,47,Krążno,YW47,Studzienice ,YW08,54 05.95,17 36.59,Studzienice YW08
+48,48,Krosnowskie,YW48,Borzytuchom ,YW01,"54,14","17,23",Borzytuchom YW01
+49,49,Księże,YW49,Lipnica ,YW05,"53,56","17,29",Lipnica YW05
+50,50,Kwisno Duże,YW50,Miastko ,YW06,54 04.53,17 06.68,Miastko YW06
+51,51,Laska,YW51,powiat chojnice,,,,Usuniete powiat chojnice
+52,52,Lipczyńskie (olchy),YW52,Miastko ,YW06,"53,58","17,02",Miastko YW06
+53,53,Lipieniec,YW53,Czarna Dąbrówka ,YW03,"54,15","17,33",Czarna Dąbrówka YW03
+54,54,Lipkowo,YW54,Miastko ,YW06,54 01.43,17 00.59,Miastko YW06
+55,55,Lubienieckie,YW55,Bytów ,YW02,"54,08","17,35",Bytów YW02
+56,56,Łąkie,YW56,Studzienice ,YW08,"54,08","17,36",Studzienice YW08
+57,57,Mądrzechowskie,YW57,Bytów ,YW02,"54,08","17,31",Bytów YW02
+58,58,Mielonek,YW58,Lipnica ,YW05,"53,56","17,27",Lipnica YW05
+59,59,Mikorowo ,YW59,Czarna Dąbrówka ,YW03,"54,24","17,35",Czarna Dąbrówka YW03
+60,60,Miłaczewo,YW60,Trzebielino ,YW09,54 06.31,17 02.74,Trzebielino YW09
+61,61,Nakla,YW61,Parchowo ,YW07,,,Parchowo YW07
+62,62,Niezabyszewskie,YW62,Bytów ,YW02,"54,07","17,25",Bytów YW02
+63,63,Obrowo Duże,YW63,Czarna Dąbrówka ,YW03,"54,15","17,36",Czarna Dąbrówka YW03
+64,64,Obrowo Małe,YW64,Czarna Dąbrówka ,YW03,"54,15","17,35",Czarna Dąbrówka YW03
+65,65,Odnoga,YW65,Czarna Dąbrówka ,YW03,"54,19","17,37",Czarna Dąbrówka YW03
+66,66,Okunie (Okolno) ,YW66,Studzienice ,YW08,54 03.60,17 30.89,Studzienice YW08
+67,67,Orle,YW67,Miastko ,YW06,54 01.12,17 04.01,Miastko YW06
+68,68,Osiecko,YW68,Borzytuchom ,YW01,"54,13","17,23",Borzytuchom YW01
+69,69,Osowo Duże,YW69,Lipnica ,YW05,"53,58","17,22",Lipnica YW05
+70,70,Pajerskie,YW70,Miastko ,YW06,"53,59","16,51",Miastko YW06
+71,71,Parszczenica,YW71,Lipnica ,YW05,"53,55","17,27",Lipnica YW05
+72,72,Piasek,YW72,Miastko ,YW06,54,"17,07",Miastko YW06
+73,73,Piaszno Duże,YW73,Lipnica ,YW05,"54,01","17,19",Lipnica YW05
+74,74,Piaszno Małe,YW74,Lipnica ,YW05,"54,05","17,21",Lipnica YW05
+75,75,Piaszno ,YW75,Tuchomie ,YW10,"54,05","17,21",Tuchomie YW10
+76,76,Pipionko(Pipenek),YW76,Bytów ,YW02,"54,1","17,36",Bytów YW02
+77,77,Prądzona,YW77,Lipnica ,YW05,54,"17,2",Lipnica YW05
+78,78,Pyszne,YW78,Bytów ,YW02,54 05.62,17 30.44,Bytów YW02
+79,79,Ryńskie,YW79,Studzienice ,YW08,"54,03","17,31",Studzienice YW08
+80,80,Rzepnica,YW80,Bytów ,YW02,"54,1","17,31",Bytów YW02
+81,81,Siadło (Kuźmia),YW81,Miastko ,YW06,54,"17,04",Miastko YW06
+82,82,Sitno Duże,YW82,Czarna Dąbrówka ,YW03,"54,16","17,3",Czarna Dąbrówka YW03
+83,83,Skąpe,YW83,Miastko ,YW06,"54,03","17,03",Miastko YW06
+84,84,Skotawsko Wielkie,YW84,Czarna Dąbrówka ,YW03,"54,16","17,31",Czarna Dąbrówka YW03
+85,85,Skotawsko Małe,YW85,Czarna Dąbrówka ,YW03,"54,17","17,3",Czarna Dąbrówka YW03
+86,86,Słosienieckie Duże,YW86,Miastko ,YW06,"53,56",17,Miastko YW06
+87,87,Słosienieckie Małe,YW87,Miastko ,YW06,"53,57","16,58",Miastko YW06
+88,88,Smołowe,YW88,Miastko ,YW06,"54,01","17,04",Miastko YW06
+89,89,Somińskie,YW89,Studzienice ,YW08,"54,01","17,38",Studzienice YW08
+90,90,Stary Staw,YW90,Bytów ,YW02,54 11.76,17 33.13,Bytów YW02
+91,91,Stropno,YW91,Parchowo ,YW07,"54,1","17,39",Parchowo YW07
+92,92,Studzieniczno,YW92,Miastko ,YW06,"53,58",17,Miastko YW06
+93,93,Sumino,YW93,Parchowo ,YW07,"54,1","17,47",Parchowo YW07
+94,94,Średnie (Wołcza M),YW94,Miastko ,YW06,"53,58","16,56",Miastko YW06
+95,95,Świeszyńskie,YW95,Miastko ,YW06,"53,59","17,04",Miastko YW06
+96,96,Trzcinskie Duże,YW96,Miastko ,YW06,"54,05","17,03",Miastko YW06
+97,97,Trzebielskie,YW97,Trzebielino ,YW09,"54,11","17,04",Trzebielino YW09
+98,98,Trzebiatowskie Duże,YW98,Tuchomie ,YW10,"54,04","17,16",Tuchomie YW10
+99,99,Trzebiatowskie Małe,YW99,Tuchomie ,YW10,"54,04","17,15",Tuchomie YW10
+100,100,Trzebielskie,YW100,Lipnica ,YW05,"53,59","17,22",Lipnica YW05
+101,101,Trzebiecz/Trzebierz,YW101,Czarna Dąbrówka ,YW03,"54,19","17,29",Czarna Dąbrówka YW03
+102,102,Unichowskie,YW102,Czarna Dąbrówka ,YW03,"54,17","17,26",Czarna Dąbrówka YW03
+103,103,Wałdowskie Małe,YW103,Miasto ,YW06,54 03.22,17 10.09,Miasto YW06
+104,104,Wałdowskie Wielkie,YW104,Miastko ,YW06,"54,03","17,09",Miastko YW06
+105,105,Wiejskie,YW105,Lipnica ,YW05,"54,01","17,17",Lipnica YW05
+106,106,Wiejskie,YW106,Lipnica ,YW05,"54,01","17,17",Lipnica YW05
+107,107,Wołczyca,YW107,Miastko ,YW06,"53,59","16,55",Miastko YW06
+108,108,Ząbinowickie,YW108,Bytów ,YW02,54 09.36,17 33.08,Bytów YW02
+109,109,Zielonka,YW109,Miastko ,YW06,"54,02","17,07",Miastko YW06
+110,110,Żukowskie/Żukówko,YW110,Parchowo ,YW07,"54,13","17,37",Parchowo YW07
+111,111,Łąkie ,YW111, powtórka YW56,,,,Usuniete powtórka YW56
+112,112,Studzieniczno,YW112,Studzienice ,YW08,"54,05","17,33",Studzienice YW08
+113,113,Małe,YW113,Studzienice ,YW08,"54,02","17,3",Studzienice YW08
+114,114,Jelenie Duże,YW114,Czarna Dąbrówka ,YW03,"54,15","17,41",Czarna Dąbrówka YW03
+115,115,Fiszewskie,YW115,Studzienice ,YW08,"54,06","17,42",Studzienice YW08
+116,116,Białe,YW116,Lipnica ,YW05,"54,02","17,13",Lipnica YW05
+,,Powiat Chojnice,CJ,,,N,E,
+117,1,Blewicz,CJ01,Brusy ,CJ02,"53,56","17,48",Brusy CJ02
+118,2,Brzeźno,CJ02,Brusy ,CJ02,"53,57","17,48",Brusy CJ02
+119,3,Charzykowskie ,CJ03,Chojnice ,CJ03,"53,46","17,3",Chojnice CJ03
+120,4,Czarnogłowe / Czarnostowe,CJ04,Brusy ,CJ02,"53,47","17,43",Brusy CJ02
+121,5,Długie,CJ05,Chojnice ,CJ03,"53,49","17,29",Chojnice CJ03
+122,6,Duże Łowne,CJ06,Chojnice ,CJ03,"53,47","17,27",Chojnice CJ03
+123,7,Duży Boryń,CJ07,Konarzyny ,CJ05,"53,54","17,25",Konarzyny CJ05
+124,8,Dybrzyk/ Dybrzk,CJ08,Brusy ,CJ02,"53,5","17,37",Brusy CJ02
+125,9,Gacno Duże ,CJ09,Chojnice ,CJ03,"53,47","17,33",Chojnice CJ03
+126,10,Gacno Małe ,CJ10,Chojnice ,CJ03,"53,47","17,32",Chojnice CJ03
+127,11,Gardliczno Duże,CJ11,Chojnice ,CJ03,"53,53","17,32",Chojnice CJ03
+128,12,Gardliczno Małe,CJ12,Brusy ,CJ02,"53,53","17,32",Brusy CJ02
+129,13,Głuche Małe,CJ13,Brusy ,CJ02,"53,57","17,32",Brusy CJ02
+130,14,Głuche Wielkie ,CJ14,Brusy ,CJ02,"53,58","17,32",Brusy CJ02
+131,15,Główka,CJ15,Chojnice ,CJ03,"53,48","17,34",Chojnice CJ03
+132,16,Jeleń ,CJ16,Chojnice ,CJ03,"53,49","17,35",Chojnice CJ03
+133,17,Karsińskie,CJ17,Chojnice ,CJ03,"53,5","17,3",Chojnice CJ03
+134,18,Kiełpinek/Kiełpińskie,CJ18,Konarzyny ,CJ05,"53,53","17,19",Konarzyny CJ05
+135,19,Kły,CJ19,Brusy ,CJ02,"53,56","17,47",Brusy CJ02
+136,20,Kosobudno,CJ20,Brusy ,CJ02,"53,5","17,38",Brusy CJ02
+137,21,Kruszyńskie,CJ21,Brusy ,CJ02,54,"17,37",Brusy CJ02
+138,22,Krzywce Małe /Krzywe Mł,CJ22,Chojnice ,CJ03,"53,49","17,32",Chojnice CJ03
+139,23,Krzywce Wielkie/ Krzywe Wlk.,CJ23,Chojnice ,CJ03,"53,5","17,33",Chojnice CJ03
+140,24,Laska,CJ24,Brusy ,CJ02,"53,55","17,3",Brusy CJ02
+141,25,Leśno Dolne,CJ25,Brusy ,CJ02,"53,56","17,42",Brusy CJ02
+142,26,Leśno Górne,CJ26,Brusy ,CJ02,"53,57","17,42",Brusy CJ02
+143,27,Lichnowskie,CJ27,Chojnice ,CJ03,"53,39","17,36",Chojnice CJ03
+144,28,Łąckie,CJ28,Brusy ,CJ02,"53,51","17,34",Brusy CJ02
+145,29,Małe Głuche,CJ29,Chojnice ,CJ03,"53,49","17,28",Chojnice CJ03
+146,30,Małe Łowne,CJ30,Chojnice ,CJ03,"53,48","17,27",Chojnice CJ03
+147,31,Małe Zielone,CJ31,Konarzyny ,CJ05,"53,53","17,25",Konarzyny CJ05
+148,32,Małołąckie,CJ32,Brusy ,CJ02,"53,52","17,33",Brusy CJ02
+149,33,Mętno,CJ33,Czersk ,CJ04,"53,47","17,47",Czersk CJ04
+150,34,Mielnica,CJ34,Chojnice ,CJ03,"53,48","17,31",Chojnice CJ03
+151,35,Milachowo,CJ35,Brusy ,CJ02,"53,56","17,33",Brusy CJ02
+152,36,Młosino Małe,CJ36,Brusy ,CJ02,"53,56","17,47",Brusy CJ02
+153,37,Młosino Wielkie,CJ37,Brusy ,CJ02,"53,57","17,47",Brusy CJ02
+154,38,Nawionek,CJ38,Brusy ,CJ02,"53,54","17,31",Brusy CJ02
+155,39,Niedźwiedzie ,CJ39,Chojnice ,CJ03,"53,45","17,32",Chojnice CJ03
+156,40,Nierybno,CJ40,Chojnice ,CJ03,"53,49","17,33",Chojnice CJ03
+157,41,Nierzostowo,CJ41,Konarzyny ,CJ05,"53,54","17,23",Konarzyny CJ05
+158,42,Ostrowite ,CJ42,Czersk ,CJ04,"53,45","18,01",Czersk CJ04
+159,43,Ostrowite ,CJ43,Chojnice ,CJ03,"53,48","17,35",Chojnice CJ03
+160,44,Parzyn,CJ44,Brusy ,CJ02,"53,58","17,38",Brusy CJ02
+161,45,Piesno,CJ45,Brusy ,CJ02,"53,52","17,33",Brusy CJ02
+162,46,Płęsno,CJ46,Chojnice ,CJ03,"53,48","17,33",Chojnice CJ03
+163,47,Płęśno Pilskie ,CJ47, powtórka,,,,Usuniete powtórka
+164,48,Skąpe,CJ48,Brusy ,CJ02,"53,54","17,48",Brusy CJ02
+165,49,Skrzynka/Skrzynki,CJ49,Chojnice ,CJ03,"53,48","17,31",Chojnice CJ03
+166,50,Śluza,CJ50,Chojnice ,CJ03,"53,55","17,27",Chojnice CJ03
+167,51,Somińskie,CJ51,Brusy ,CJ02,"54,01","17,38",Brusy CJ02
+168,52,Suszek,CJ52,Czersk ,CJ04,"53,43","17,46",Czersk CJ04
+169,53,Śpierewnik,CJ53,Czersk ,CJ04,"53,42","17,46",Czersk CJ04
+170,54,Świdno,CJ54,Czersk ,CJ04,"53,45","17,58",Czersk CJ04
+171,55,Trzemeszno,CJ55,Brusy ,CJ02,"53,48","17,42",Brusy CJ02
+172,56,Warszyn,CJ56,Brusy ,CJ02,"53,56","17,38",Brusy CJ02
+173,57,Wegner,CJ57,usunięte ,,,,usunięte 
+174,58,Wieckie,CJ58,Czersk ,CJ04,"53,52","18,03",Czersk CJ04
+175,59,Wielkie Zielone,CJ59,Konarzyny ,CJ05,"53,53","17,24",Konarzyny CJ05
+176,60,Witoczno,CJ60,Chojnice ,CJ03,"53,52","17,3",Chojnice CJ03
+177,61,Wysockie,CJ61,nie ten powiat,,,,usunięte nie ten powiat
+178,62,Zielone ,CJ62,Chojnice ,CJ03,"53,49","17,35",Chojnice CJ03
+179,63,Zmarłe,CJ63,Brusy ,CJ02,"53,55","17,31",Brusy CJ02
+180,64,Życheckie,CJ64,Konarzyny ,CJ05,"53,5","17,21",Konarzyny CJ05
+181,65,Ostrowite ,CJ65,Chojnice ,CJ03,"53,38","17,39",Chojnice CJ03
+182,66,Duże Głuche ,CJ66,Chojnice ,CJ03,"53,49","17,26",Chojnice CJ03
+,,Powiat Gdański i Miasto Gdańsk,UG,,,N,E,
+183,1,Bronisława,UG01,Kolbudy ,UG03,"54,08","18,26",Kolbudy UG03
+184,2,Głęboczko,UG02,Przywidz ,UG05,54 13.42,18 18.54,Przywidz UG05
+185,3,Goszyńskie (Straszyńskie),UG03,Kolbudy ,UG03,"54,17","18,33",Kolbudy UG03
+186,4,Klonowskie,UG04,Przywidz ,UG05,"54,12","18,18",Przywidz UG05
+187,5,Łąkie ( Bielkowskie),UG05,Kolbudy ,UG03,"54,16","18,29",Kolbudy UG03
+188,6,Łapińskie dolne,UG06,Kolbudy ,UG03,"54,17","18,27",Kolbudy UG03
+189,7,Małe,UG07,Przywidz ,,,,Przywidz UG05
+190,8,Marszewskie,UG08, Usunięte ( powtórzone  UG,,,, Usunięte ( powtórzone  UG 13)
+191,9,Otomińskie,UG09,Kolbudy ,UG03,"54,19","18,3",Kolbudy UG03
+192,10,Przywidzkie Małe,UG10,Przywidz ,UG05,"54,11","18,19",Przywidz UG05
+193,11,Przywidzkie Wielkie,UG11,Przywidz ,UG05,"54,12","18,22",Przywidz UG05
+194,12,Sobowidzkie,UG12,Trąbki Wielkie ,UG08,"54,08","18,36",Trąbki Wielkie UG08
+195,13,"Ząbrowskie ( Ząbrsko), Marszewskie",UG13,Przywidz ,UG05,"54,14","18,21",Przywidz UG05
+196,14,Łęckie (Łąki) Łąkie,UG14,Przywidz ,UG05,"54,1","18,14",Przywidz UG05
+,,Powiat Kartuzy,RU,,,N,E,
+197,1,Chojnackie/Chojnickie,RU01,Sulęczyno ,RU07,"54,17","17,43",Sulęczyno RU07
+198,2,Białe,RU02,Chmielno ,RU01,"54,20","18,06",Chmielno RU01
+199,3,Białe,RU03,Sierakowice ,RU04,"54,24","17,54",Sierakowice RU04
+200,4,Białe,RU04,Kartuzy ,RU02,"54,22","18,11",Kartuzy RU02
+201,5,Brodno Małe,RU05,Kartuzy ,RU02,"54,18","18,07",Kartuzy RU02
+202,6,Brodno Wielkie,RU06,Kartuzy ,RU02,"54,16","18,06",Kartuzy RU02
+203,7,Bukowskie,RU07,Sierakowice ,RU04,"54,22","17,57",Sierakowice RU04
+204,8,Czarne,RU08,Kartuzy ,RU02,"54,23","18,12",Kartuzy RU02
+205,9,Dąbrowskie,RU09,Stężyca ,RU06,"54,12","18,00",Stężyca RU06
+206,10,Demnica,RU10,powt RU04,,,,Usuniete Sierakowice RU04
+207,11,Długie,RU11,Chmielno ,RU01,"54,19","18,00",Chmielno RU01
+208,12,Długie,RU12,Sulęczyno ,RU07,"54,12","17,50",Sulęczyno RU07
+209,13,Długie,RU13,Sierakowice ,RU04,"54,21","17,51",Sierakowice RU04
+210,14,Głębokie,RU14,Kartuzy ,RU02,"54,20","18,18",Kartuzy RU02
+211,15,Gowidlińskie,RU15,Sierakowice ,RU04,"54,18","17,47",Sierakowice RU04
+212,16,Guścierz Duży,RU16,Sulęczyno ,RU07,"54,13","17,47",Sulęczyno RU07
+213,17,Junno,RU17,Sierakowice ,RU04,"54,24","17,54",Sierakowice RU04
+214,18,Kamienickie,RU18,Sierakowice ,RU04,"54,24","17,52",Sierakowice RU04
+215,19,Kamienne,RU19,Kartuzy ,RU02,"54,25","18,00",Kartuzy RU02
+216,20,Kamionka,RU20,Stężyca ,RU06,"54,15","18,02",Stężyca RU06
+217,21,Karczemne,RU21,Kartuzy ,RU02,"54,19","18,11",Kartuzy RU02
+218,22,Karlikowskie,RU22,Kartuzy ,RU02,"54,19","18,18",Kartuzy RU02
+219,23,Kczewskie,RU23,Przodkowo ,RU03,"54,23","18,19",Przodkowo RU03
+220,24,Klasztorne Dużę,RU24,Kartuzy ,RU02,"54,21","18,11",Kartuzy RU02
+221,25,Klasztorne Małe,RU25,Kartuzy ,RU02,"54,20","18,11",Kartuzy RU02
+222,26,Kłodno,RU26,Chmielno ,RU01,"54,19","18,06",Chmielno RU01
+223,27,Kniewo,RU27,Stężyca ,RU06,"54,12","18,04",Stężyca RU06
+224,28,Kotynia Kołynia,RU28,Sulęczyno ,RU07,"54,11","17,48",Sulęczyno RU07
+225,29,Lubowisko,RU29,Stężyca ,RU06,"54,11","17,58",Stężyca RU06
+226,30,Lubygość,RU30,Kartuzy ,RU02,"54,24","17,59",Kartuzy RU02
+227,31,Łapalickie,RU31,Kartuzy ,RU02,"54,21","18,06",Kartuzy RU02
+228,32,Łapino Górne,RU32,Żukowo ,RU08,"54,16","18,25",Żukowo RU08
+229,33,Łąkie Wielkie,RU33,Kartuzy ,RU02,"54,22","18,07",Kartuzy RU02
+230,34,Łączyńskie,RU34,Chmielno ,RU01,"54,16","18,00",Chmielno RU01
+231,35,Okno,RU35,Sulęczyno ,RU07,"54,15","17,49",Sulęczyno RU07
+232,36,Mausz,RU36,Sulęczyno ,RU07,"54,12","17,44",Sulęczyno RU07
+233,37,Mezowskie,RU37,Kartuzy ,RU02,"54,18","18,15",Kartuzy RU02
+234,38,Mienino,RU38,Sierakowice ,RU04,"54,21","17,49",Sierakowice RU04
+235,39,Moczydło,RU39,Sulęczyno ,RU07,"54,14","17,46",Sulęczyno RU07
+236,40,Mściszewickie,RU40,Sulęczyno ,RU07,"54,15","17,50",Sulęczyno RU07
+237,41,Niesiołowice ,RU41,Usunięte powt ru12,,,,Usunięte powt ru12
+238,42,Nieniko,RU42,Usunięte powt ru38,,,,Usunięte powt ru38
+239,43,Odnoga,RU43,Sierakowice ,RU04,"54,25","17,57",Sierakowice RU04
+240,44,Otalżyno,RU44,Usunięte Powiat WJ,,,,Usunięte Powiat WJ
+241,45,Osowskie,RU45,Żukowo ,RU08,"54,26","18,26",Żukowo RU08
+242,46,Ostrowickie/Ostrowite,RU46,Sierakowice ,RU04,"54,17","17,43",Sierakowice RU04
+243,47,Ostrzyckie,RU47,Stężyca ,RU06,"54,15","18,06",Stężyca RU06
+244,48,Osuszyno,RU48,Kartuzy ,RU02,"54,22","18,04",Kartuzy RU02
+245,49,Patulskie,RU49,Stężyca ,RU06,"54,13","18,03",Stężyca RU06
+246,50,Pierszczewo,RU50,Usuniete,,,,Usuniete
+247,51,Połęczyńskie,RU51,Somonino ,RU05,"54,12","18,14",Somonino RU05
+248,52,Potęgowskie,RU52,Kartuzy ,RU02,"54,25","17,56",Kartuzy RU02
+249,53,Pręgożyno,RU53,Sulęczyno ,RU07,"54,18","17,50",Sulęczyno RU07
+250,54,Raduńskie Dolne,RU54,Chmielno ,RU01,"54,18","18,03",Chmielno RU01
+251,55,Raduńskie Górne,RU55,Stężyca ,RU06,"54,14","17,58",Stężyca RU06
+252,56,Rekowo,RU56,Chmielno ,RU01,"54,19","18,07",Chmielno RU01
+253,57,Reskowskie,RU57,Chmielno ,RU01,"54,20","18,03",Chmielno RU01
+254,58,Rąty,RU58,Somonino ,RU05,"54,15","18,10",Somonino RU05
+255,59,Sianowskie,RU59,Kartuzy ,RU02,"54,22","18,05",Kartuzy RU02
+256,60,Sitno,RU60,Kartuzy ,RU02,"54,20","18,18",Kartuzy RU02
+257,61,Suminko,RU61,Sulęczyno ,RU07,"54,11","17,47",Sulęczyno RU07
+258,62,Skrzynka,RU62,Sulęczyno ,RU07,"54,17","17,49",Sulęczyno RU07
+259,63,Stacinko,RU63,Sulęczyno ,RU07,"54,16","17,50",Sulęczyno RU07
+260,64,Stężyckie,RU64,Stężyca ,RU06,"54,11","17,56",Stężyca RU06
+261,65,Suminko ,RU65,powt ru61,,,,Usunięte powt ru61
+262,66,Święte,RU66,Sierakowice ,RU04,"54,24","17,51",Sierakowice RU04
+263,67,Świniewo,RU67,Sierakowice ,RU04,"54,20","17,52",Sierakowice RU04
+264,68,Trzcinowo/ Trzono,RU68,Sierakowice ,RU04,"54,21","17,50",Sierakowice RU04
+265,69,Trzebocińskie,RU69,Sulęczyno ,RU07,"54,17","17,48",Sulęczyno RU07
+266,70,Trzemeszno,RU70,Sierakowice ,RU04,"54,19","17,44",Sierakowice RU04
+267,71,Trzono,RU71,powtórka RU 68,,,,Usunięte powtórka RU 68
+268,72,Tuchlińskie,RU72,Sierakowice ,RU04,"54,18","17,50",Sierakowice RU04
+269,73,Tuchomskie,RU73,Żukowo ,RU08,"54,26","18,21",Żukowo RU08
+270,74,Warlińskie,RU74,Sulęczyno ,RU07,"54,17","17,44",Sulęczyno RU07
+271,75,Węgorzyno,RU75,Sulęczyno ,RU07,"54,14","17,47",Sulęczyno RU07
+272,76,Wielkie,RU76,Chmielno ,RU01,"54,20","18,01",Chmielno RU01
+273,77,Wyrobisko Tuchom,RU77,Żukowo ,RU08,"54,25","18,24",Żukowo RU08
+274,78,Wysockie,RU78,Żukowo ,RU08,"54,25","18,27",Żukowo RU08
+275,79,Glinne,RU79,Chmielno ,RU01,"54,21","18,11",Chmielno RU01
+276,80,Długie,RU80,usunięte powiat YA,,,,usunięte powiat YA
+277,81,Przodkowskie / Księże,RU81,Przodkowo ,RU03,"54,23","18,17",Przodkowo RU03
+278,82,Czeczewskie ,RU82,Usunięte nieznane,,,,Usunięte nieznane
+279,83,Dzierżążno,RU83,Kartuzy ,RU02,"54,19","18,16",Kartuzy RU02
+280,84,Duże Kiełpino,RU84,Kartuzy ,RU02,"54,17","18,13",Kartuzy RU02
+281,85,Bąckie,RU85,Kartuzy ,RU02,"54,23","18,02",Kartuzy RU02
+282,86,Gostkowo,RU86,Usunięte nieznane,,,,Usunięte nieznane
+283,87,Borucińskie,RU87,Stężyca ,RU06,"54,17","17,58",Stężyca RU06
+284,88,Żuromino,RU88,Stężyca ,RU06,"54,14","17,57",Stężyca RU06
+285,89,Białe,RU89,Powtórka RU04,,,,Powtórka RU04
+286,90,Bukrzyno Duże,RU90,Stężyca ,RU06,"54,15","18,02",Stężyca RU06
+287,91,Bukrzyno Małe,RU91,Stężyca ,RU06,"54,15","18,03",Stężyca RU06
+,,Powiat Kościerzyna,YA,,,N,E,
+288,1,Barkocińskie,YA01,Nowa Karczma ,YA07,"54,07","18,08",Nowa Karczma YA07
+289,2,Białe,YA02,Kościerzyna ,YA04,"54,03","17,57",Kościerzyna YA04
+290,3,Biebrowo,YA03,Dziemiany ,YA02,"54,02","17,47",Dziemiany YA02
+291,4,Bielawy,YA04,Dziemiany ,YA02,"54,03","17,5",Dziemiany YA02
+292,5,Borowe,YA05,Kościerzyna ,YA04,"54,09","17,51",Kościerzyna YA04
+293,6,Brzęczek ( Jarzębce),YA06,Liniewo ,YA05,"54,02","18,18",Liniewo YA05
+294,7,Brzezionka/Brzeźno,YA07,Dziemiany YA02/Brusy CJ02,CJ02,"53,58","17,48",Dziemiany YA02/Brusy CJ02
+295,8,Cheb,YA08,Dziemiany ,YA02,"54,01","17,49",Dziemiany YA02
+296,9,Czerwonko,YA09,Stara Kiszewa ,YA08,"53,59","18,04",Stara Kiszewa YA08
+297,10,Czyste,YA10,Karsin ,YA03,"53,58","17,57",Karsin YA03
+298,11,Czyzon,YA11,Stara Kiszewa ,YA08,"53,59","18,15",Stara Kiszewa YA08
+299,12,Debrzyno,YA12,Kościerzyna ,YA04,"54,04","17,58",Kościerzyna YA04
+300,13,Deka,YA13,Liniewo ,YA05,54 04,18 19,Liniewo YA05
+301,14,Długie,YA14,Stara Kiszewa ,YA08,"53,58",18 07,Stara Kiszewa YA08
+302,15,Długie,YA15,Usunięte powtórka,,,,Usunięte powtórka
+303,16,Długie,YA16,Kościerzyna ,YA04,"54,1","17,59",Kościerzyna YA04
+304,17,Długie Wielkie,YA17,Kościerzyna ,YA04,"54,09","17,52",Kościerzyna YA04
+305,18,Dobrogoszcz,YA18,Kościerzyna ,YA04,"54,08","18,03",Kościerzyna YA04
+306,19,Drzęczno,YA19,Stara Kiszewa ,YA08,"53,58","18,02",Stara Kiszewa YA08
+307,20,Duże,YA20,Liniewo ,YA05,"54,02",18 12,Liniewo YA05
+308,21,Dywańskie,YA21,Dziemiany ,YA02,"54,02","17,39",Dziemiany YA02
+309,22,Gatno,YA22,Kościerzyna ,YA04,"54,03","18,05",Kościerzyna YA04
+310,23,Garczonki,YA23,Liniewo ,YA05,54 03.58,18 15.07,Liniewo YA05
+311,24,Garczyn,YA24,Kościerzyna ,YA04,"54,07","17,55",Kościerzyna YA04
+312,25,Grabowo,YA25,Liniewo ,YA05,"54,04","18,2",Liniewo YA05
+313,26,Gołuń,YA26,Kościerzyna ,YA04,54,"17,58",Kościerzyna YA04
+314,27,Górne,YA27,Kościerzyna ,YA04,,,Kościerzyna YA04
+315,28,Grabowskie,YA28,Nowa Karczma Y,A 07,"54,08","18,1",Nowa Karczma YA 07
+316,29,Graniczne,YA29,Kościerzyna ,YA04,54 06.89,17 52.77,Kościerzyna YA04
+317,30,Grzybno,YA30,Stara Kiszewa ,YA08,"53,55","18,03",Stara Kiszewa YA08
+318,31,Hutowe,YA31,Stara Kiszewa ,YA08,"54,03","18,07",Stara Kiszewa YA08
+319,32,Jelenie,YA32,Kościerzyna ,YA04,"54,01","17,56",Kościerzyna YA04
+320,33,Kamionki Duże,YA33, powtórka YA28,,,,Usunięte powtórka YA28
+321,34,Kamionki Małe,YA34,Nowa Karczma ,YA07,"54,09","18,12",Nowa Karczma YA07
+322,35,Karpno (Stare Karpno),YA35,Lipusz ,YA06,"54,07","17,48",Lipusz YA06
+323,36,Kozielnia,YA36,Stara Kiszewa ,YA08,"53,59","18,05",Stara Kiszewa YA08
+324,37,Kramsko Duże,YA37,Kościerzyna ,YA04,"54,03",1756,Kościerzyna YA04
+325,38,Kramsko Małe,YA38,Kościerzyna ,YA04,"54,03","17,56",Kościerzyna YA04
+326,39,Krąg,YA39,Stara Kiszewa ,YA08,"53,58","18,06",Stara Kiszewa YA08
+327,40,Liniewskie,YA40,Liniewo ,YA05,"54,04","18,12",Liniewo YA05
+328,41,Lipno,YA41,Dziemiany ,YA02,54,"17,5",Dziemiany YA02
+329,42,Lubiszewskie,YA42,Lipusz ,YA06,"54,08","17,46",Lipusz YA06
+330,43,Mieliste,YA43,Kościerzyna ,YA04,"54,03","17,59",Kościerzyna YA04
+331,44,Mielnica,YA44,Kościerzyna ,YA04,"54,06","17,55",Kościerzyna YA04
+332,45,Osty,YA45,Dziemiany ,YA02,"54,03","17,5",Dziemiany YA02
+333,46,Osty,YA46, powtórka,,,,Usunięte powtórka
+334,47,Osuszyno (Szarlota),YA47,Kościerzyna ,YA04,"54,06","17,57",Kościerzyna YA04
+335,48,Piaseczno,YA48,Stara Kiszewa ,YA08,54 02.65,18 12.18,Stara Kiszewa YA08
+336,49,Płocice (Wielkie),YA49,Kościerzyna ,YA04,"54,06","17,52",Kościerzyna YA04
+337,50,Płocice,YA50,Lipusz ,YA06,"54,05","17,51",Lipusz YA06
+338,51,Polaszkowskie,YA51,Liniewo ,YA05,"54,02","18,09",Liniewo YA05
+339,52,Polaszkowskie,YA52, Powtórka YA51 ,,,,Usunięte Powtórka YA51 
+340,53,Prusionki Duże/Prusiki Wielkie,YA53,Stara Kiszewa ,YA08,"53,58","18,02",Stara Kiszewa YA08
+341,54,Przybroda,YA54,Liniewo ,YA05,,,Liniewo YA05
+342,55,Przywłóczno,YA55,Stara Kiszewa ,YA08,54,"18,02",Stara Kiszewa YA08
+343,56,Przywidz,YA56,usunięte,,,,usunięte
+344,57,Psinko,YA57,usunięte,,,,usunięte
+345,58,Puc,YA58,Kościerzyna ,YA04,"54,08","18,04",Kościerzyna YA04
+346,59,Radolne,YA59,Dziemiany ,YA02,"54,01","17,54",Dziemiany YA02
+347,60,Raduń ( Raduńskie),YA60,Dziemiany ,YA02,"53,58","17,46",Dziemiany YA02
+348,61,Sarnowicze Małe,YA61,Lipusz ,YA06,"54,03","17,41",Lipusz YA06
+349,62,Sarnowicze Wielkie,YA62,Dziemiany ,YA02,"54,02","17,42",Dziemiany YA02
+350,63,Schodno,YA63,Dziemiany ,YA02,"54,03","17,51",Dziemiany YA02
+351,64,Skrzynki Duże,YA64,Lipusz ,YA06,"54,06","17,48",Lipusz YA06
+352,65,Sobąckie / Sobącz,YA65,Liniewo ,YA05,"54,03","18,1",Liniewo YA05
+353,66,Sominko,YA66,Kościerzyna ,YA04,"54,05","17,53",Kościerzyna YA04
+354,67,Słupinko,YA67,Kościerzyna/Dziemiany, YA04/YA02,"54,01","17,52",Kościerzyna YA04 /Dziemiany YA02
+355,68,Słupinko,YA68, powtórka,,,,Usunięte Powtórzone
+356,69,Słupino,YA69,Dziemiany ,YA02,"54,01","17,5",Dziemiany YA02
+357,70,Starowieckie,YA70,Liniewo ,YA05,"54,06","18,19",Liniewo YA05
+358,71,Strugi,YA71,Stara Kiszewa ,YA06,"53,96","18,26",usunięte
+359,72,Strupino,YA72,Kościerzyna ,YA04,"54,02","17,59",Kościerzyna YA04
+360,73,Sudomie,YA73,Kościerzyna ,YA04,"54,06",17 54,Kościerzyna YA04
+361,74,Średnie,YA74,Kościerzyna ,YA04,,,Kościerzyna YA04
+362,75,Trawiki /Trawice,YA75,Lipusz ,YA06,"54,03","17,44",Lipusz YA06
+363,76,Wdzydze,YA76,Dziemiany/Karsin,YA02 YA03,54,"17,54",Dziemiany YA02 /Karsin YA03
+364,77,Wieckie,YA77,Lipusz ,YA06,"54,04","17,4",Lipusz YA06
+365,78,Wielewskie,YA78,Karsin ,YA03,"53,55","17,5",Karsin YA03
+366,79,Wielkie,YA79,Stara Kiszewa ,YA08,"53,58","18,15",Stara Kiszewa YA08
+367,80,Wielkie Młosino obecnie cj37,YA80,inny powiat- CJ,,,,Usunięte inny powiat- CJ
+368,81,Wieprznickie,YA81,Kościerzyna ,YA04,"54,09","17,55",Kościerzyna YA04
+369,82,Wierzchul,YA82,Stara Kiszewa ,YA08,54,"18,02",Stara Kiszewa YA08
+370,83,Wierzysko,YA83,Kościerzyna ,YA04,"54,06",18,Kościerzyna YA04
+371,84,Wygonin,YA84,Stara Kiszewa ,YA08,"53,57","18,08",Stara Kiszewa YA08
+372,85,Wyrowno,YA85,Lipusz ,YA06,"54,04","17,5",Lipusz YA06
+373,86,Wyspa,YA86,Stara Kiszewa ,YA08,"53,55","18,04",Stara Kiszewa YA08
+374,87,Zagnanie,YA87,Kościerzyna ,YA04,"54,04","18,02",Kościerzyna YA04
+375,88,Zakrzewie,YA88,Stara Kiszewa ,YA08,"54,03","18,01",Stara Kiszewa YA08
+376,89,Żołnowo,YA89,Kościerzyna ,YA04,"54,05","17,54",Kościerzyna YA04
+377,90,Rzuno,YA90,Dziemiany ,YA02,54,"17,46",Dziemiany YA02
+378,91,Kotel,YA91,Kościerzyna ,YA04,"54,01","18,01",Kościerzyna YA04
+379,92,Chądzie,YA92,Kościerzyna/Stara Kiszewa, YA04 YA08,54,18,Kościerzyna YA04/Stara Kiszewa YA08
+380,93,Gostomko,YA93,Kościerzyna ,YA04,"54,09","17,49",Kościerzyna YA04
+,,Powiat Lębork,EB,,,N,E,
+381,1,Lubowidz Mały,EB01,Nowa Wieś Lęborska ,EB04,"54,32","17,49",Nowa Wieś Lęborska EB04
+382,2,Lubowidzkie,EB02,Nowa Wieś Lęborska ,EB04,"54,33","17,5",Nowa Wieś Lęborska EB04
+383,3,Oskowo,EB03,Cewice ,EB03,"54,23","17,4",Cewice EB03
+384,4,Sarbsko,EB04,Wicko ,EB05,"54,45","17,37",Wicko EB05
+385,5,Żurawie (Brody),EB05,Cewice ,EB03,"54,27","17,41",Cewice EB03
+,,Powiat Puck,PK,,,N,E,
+386,1,Dobre,PK01,Puck ,PK07,"54,43","18,1",Puck PK07
+,,Powiat Słupsk,SL,,,N,E,
+387,1,Czarne,SL01,nie ten powiat,,,,usunięte  nie ten powiat
+388,2,Darnowskie Darnowo,SL02,Kępice ,SL05,"54,08","16,55",Kępice SL05
+389,3,Dąbrówka,SL03,Dębnica Kaszubska ,SL03,"54,3","17,22",Dębnica Kaszubska SL03
+390,4,Dobre (Dobrskie),SL04,Dębnica Kaszubska ,SL03,"54,23","17,22",Dębnica Kaszubska SL03
+391,5,Dołgie Duże,SL05,Smołdzino ,SL09,"54,41","17,11",Smołdzino SL09
+392,6,Gardno,SL06,Smołdzino ,SL09,"54,39","17,07",Smołdzino SL09
+393,7,Głębokie,SL07,Dębnica Kaszubska ,SL03,"54,16","17,23",Dębnica Kaszubska SL03
+394,8,Krzynia (Krzemień),SL08,Dębnica Kaszubska ,SL03,"54,2","17,12",Dębnica Kaszubska SL03
+395,9,Krzynia  Mała ,SL09, nieznane,,,,Usunięte nieznane
+396,10,Kunitowskie,SL10,Dębnica Kaszubska ,SL03,"54,17","17,22",Dębnica Kaszubska SL03
+397,11,Lewarowe,SL11, nie ten powiat,,,,usunięte nie ten powiat
+398,12,Lipnik / Nakło,SL12,Kępice ,SL05,"54,12","16,57",Kępice SL05
+399,13,Łebsko,SL13,Smołdzino ,SL09,"54,43","17,23",Smołdzino SL09
+400,14,Modła,SL14,Ustka ,SL10,"54,32","16,47",Ustka SL10
+401,15,Obłęskie (Obłęża),SL15,Kępice ,SL05,"54,14","16,55",Kępice SL05
+402,16,Piaszno,SL16,nie ten powiat,,,,usunięte nie ten powiat
+403,17,Przyjezierze,SL17,Kępice ,SL05,"54,1","16,55",Kępice SL05
+404,18,Rybiec,SL18,Dębnica Kaszubska ,SL03,"54,17","17,09",Dębnica Kaszubska SL03
+405,19,Ścięgnica,SL19,Kobylnica ,SL06,"54,19","16,49",Kobylnica SL06
+,,Powiat Wejherowo,WJ,,,N,E,
+406,1,Bieszkowickie,WJ01,Wejherowo ,WJ10,"54,31","18,17",Wejherowo WJ10
+407,2,Borowo,WJ02,Wejherowo ,WJ10,"54,32","18,16",Wejherowo WJ10
+408,3,Choczewskie,WJ03,Choczewo ,WJ04,"54,44","17,56",Choczewo WJ04
+409,4,Czarne,WJ04,Gniewino ,WJ05,"54,39","17,56",Gniewino WJ05
+410,5,Dąbrze,WJ05,Gniewino ,WJ05,"54,39","17,58",Gniewino WJ05
+411,6,Folwarczne,WJ06,Linia ,WJ06,"54,25","17,53",Linia WJ06
+412,7,Kamień,WJ07,Szemud ,WJ09,"54,28","18,16",Szemud WJ09
+413,8,Lewinko,WJ08,Linia ,WJ06,"54,27","18,03",Linia WJ06
+414,9,Marchowo( wschodnie i zachodnie),WJ09,Szemud ,WJ09,"54,28","18,19",Szemud WJ09
+415,10,Miłoszewskie,WJ10,Linia ,WJ06,"54,27","18,02",Linia WJ06
+416,11,Mulk ( jez.Kielno),WJ11,Szemud ,WJ09,"54,27","18,2",Szemud WJ09
+417,12,Otalżyno,WJ12,Szemud ,WJ09,"54,27","18,12",Szemud WJ09
+418,13,Orle,WJ13,Wejherowo ,WJ10,"54,38","18,09",Wejherowo WJ10
+419,14,Orzechowo,WJ14,Szemud ,WJ09,"54,26","18,2",Szemud WJ09
+420,15,Salino ( Salińskie),WJ15,Gniewino ,WJ05,"54,41","17,56",Gniewino WJ05
+421,16,Strzepcz,WJ16,Linia ,WJ06,"54,27","18,01",Linia WJ06
+422,17,Trepczykowo,WJ17,Linia ,WJ06,"54,26","17,52",Linia WJ06
+423,18,Wygoda,WJ18,Wejherowo ,WJ10,"54,31","18,14",Wejherowo WJ10
+424,19,Wysoka (Wycztok),WJ19,Szemud ,WJ09,"54,27","18,15",Szemud WJ09
+425,20,Wyspowo,WJ20,Wejherowo ,WJ10,"54,33","18,18",Wejherowo WJ10
+426,21,Zawiad ( Zawiat),WJ21,Wejherowo ,WJ10,"54,3","18,17",Wejherowo WJ10
+427,22,Żarnowieckie,WJ22,Gniewino ,WJ05,"54,45","18,03",Gniewino WJ05
+428,23,Czarne,WJ23,Linia ,WJ06,54.24.57,17.54.57,Linia WJ06
+

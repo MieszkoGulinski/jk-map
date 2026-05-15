@@ -1,0 +1,2348 @@
+[
+  {
+    "code": "YW01",
+    "name": "Bluj (Głodowo)",
+    "lat": 54.03333333333333,
+    "lng": 17.183333333333334
+  },
+  {
+    "code": "YW02",
+    "name": "Bobięcińskie Małe",
+    "lat": 54.016666666666666,
+    "lng": 16.816666666666666
+  },
+  {
+    "code": "YW03",
+    "name": "Bobięcińskie Wielkie",
+    "lat": 54,
+    "lng": 16.8
+  },
+  {
+    "code": "YW04",
+    "name": "Borzyszkowskie",
+    "lat": 54.03333333333333,
+    "lng": 17.35
+  },
+  {
+    "code": "YW05",
+    "name": "Byczyńskie",
+    "lat": 54.03333333333333,
+    "lng": 16.95
+  },
+  {
+    "code": "YW06",
+    "name": "Brzezinek Duży",
+    "lat": 54.016666666666666,
+    "lng": 17.233333333333334
+  },
+  {
+    "code": "YW07",
+    "name": "Cechyńskie Małe",
+    "lat": 54.016666666666666,
+    "lng": 17.55
+  },
+  {
+    "code": "YW08",
+    "name": "CechyńskieDuże",
+    "lat": 54.016666666666666,
+    "lng": 17.566666666666666
+  },
+  {
+    "code": "YW10",
+    "name": "Chotkowskie",
+    "lat": 54.15,
+    "lng": 17.35
+  },
+  {
+    "code": "YW11",
+    "name": "Czarne (Unichowo)",
+    "lat": 54.266666666666666,
+    "lng": 17.433333333333334
+  },
+  {
+    "code": "YW12",
+    "name": "Czarne Dąbrówno",
+    "lat": 54.11666666666667,
+    "lng": 17.6
+  },
+  {
+    "code": "YW14",
+    "name": "Dąbie Duże i Małe",
+    "lat": 54.2,
+    "lng": 17.483333333333334
+  },
+  {
+    "code": "YW15",
+    "name": "Długie",
+    "lat": 53.96666666666667,
+    "lng": 17.266666666666666
+  },
+  {
+    "code": "YW16",
+    "name": "Długie",
+    "lat": 53.916666666666664,
+    "lng": 17.466666666666665
+  },
+  {
+    "code": "YW17",
+    "name": "Długie (Kartkowskie)",
+    "lat": 54.28183333333333,
+    "lng": 17.467833333333335
+  },
+  {
+    "code": "YW18",
+    "name": "Długie (osława) Dłużecko",
+    "lat": 54.1,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "YW19",
+    "name": "Długie",
+    "lat": 54.13766666666667,
+    "lng": 17.388833333333334
+  },
+  {
+    "code": "YW20",
+    "name": "Dolskie",
+    "lat": 54.016666666666666,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YW21",
+    "name": "Duża Boruja",
+    "lat": 54.083333333333336,
+    "lng": 17.433333333333334
+  },
+  {
+    "code": "YW22",
+    "name": "Duże",
+    "lat": 54.2,
+    "lng": 17.35
+  },
+  {
+    "code": "YW23",
+    "name": "Glinowskie",
+    "lat": 54.15,
+    "lng": 17.65
+  },
+  {
+    "code": "YW24",
+    "name": "Gliszczonek",
+    "lat": 54.06783333333333,
+    "lng": 17.365833333333335
+  },
+  {
+    "code": "YW25",
+    "name": "Głęboczko",
+    "lat": 54.18333333333333,
+    "lng": 17.55
+  },
+  {
+    "code": "YW26",
+    "name": "Głębokie (Pietrzykowskie Duże)",
+    "lat": 53.96666666666667,
+    "lng": 17.1
+  },
+  {
+    "code": "YW27",
+    "name": "Graniczne",
+    "lat": 54.13333333333333,
+    "lng": 17.216666666666665
+  },
+  {
+    "code": "YW28",
+    "name": "Gromadzkie",
+    "lat": 54.11116666666667,
+    "lng": 17.5325
+  },
+  {
+    "code": "YW29",
+    "name": "Gubisz",
+    "lat": 54.13333333333333,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "YW30",
+    "name": "Gwiazdy Duże",
+    "lat": 53.96666666666667,
+    "lng": 17.283333333333335
+  },
+  {
+    "code": "YW31",
+    "name": "Gwieździniec",
+    "lat": 54,
+    "lng": 17.25
+  },
+  {
+    "code": "YW32",
+    "name": "Jasień Południowy",
+    "lat": 54.266666666666666,
+    "lng": 17.6
+  },
+  {
+    "code": "YW33",
+    "name": "Jasień Północny",
+    "lat": 54.3,
+    "lng": 17.6
+  },
+  {
+    "code": "YW34",
+    "name": "Jeleń ",
+    "lat": 54.2,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW35",
+    "name": "Kamieniczno",
+    "lat": 54.05,
+    "lng": 17.033333333333335
+  },
+  {
+    "code": "YW37",
+    "name": "Kamień Duży /Kamienne",
+    "lat": 54.016666666666666,
+    "lng": 17.05
+  },
+  {
+    "code": "YW38",
+    "name": "Kamnickie",
+    "lat": 54,
+    "lng": 16.883333333333333
+  },
+  {
+    "code": "YW39",
+    "name": "Karwińskie Duże",
+    "lat": 54.36666666666667,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW40",
+    "name": "Kiedrowickie",
+    "lat": 53.983333333333334,
+    "lng": 17.416666666666668
+  },
+  {
+    "code": "YW41",
+    "name": "Kielskie",
+    "lat": 54.016666666666666,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW42",
+    "name": "Kłączno",
+    "lat": 54.06666666666667,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "YW43",
+    "name": "Kopieniec",
+    "lat": 54.03333333333333,
+    "lng": 17.55
+  },
+  {
+    "code": "YW44",
+    "name": "Kopieniec Duży",
+    "lat": 54.03333333333333,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "YW45",
+    "name": "Kościelne",
+    "lat": 53.983333333333334,
+    "lng": 16.916666666666668
+  },
+  {
+    "code": "YW46",
+    "name": "Kozińskie (kozie)",
+    "lat": 54.38333333333333,
+    "lng": 17.566666666666666
+  },
+  {
+    "code": "YW47",
+    "name": "Krążno",
+    "lat": 54.09916666666667,
+    "lng": 17.609833333333334
+  },
+  {
+    "code": "YW48",
+    "name": "Krosnowskie",
+    "lat": 54.233333333333334,
+    "lng": 17.383333333333333
+  },
+  {
+    "code": "YW49",
+    "name": "Księże",
+    "lat": 53.93333333333333,
+    "lng": 17.483333333333334
+  },
+  {
+    "code": "YW50",
+    "name": "Kwisno Duże",
+    "lat": 54.0755,
+    "lng": 17.111333333333334
+  },
+  {
+    "code": "YW52",
+    "name": "Lipczyńskie (olchy)",
+    "lat": 53.96666666666667,
+    "lng": 17.033333333333335
+  },
+  {
+    "code": "YW53",
+    "name": "Lipieniec",
+    "lat": 54.25,
+    "lng": 17.55
+  },
+  {
+    "code": "YW54",
+    "name": "Lipkowo",
+    "lat": 54.023833333333336,
+    "lng": 17.009833333333333
+  },
+  {
+    "code": "YW55",
+    "name": "Lubienieckie",
+    "lat": 54.13333333333333,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "YW56",
+    "name": "Łąkie",
+    "lat": 54.13333333333333,
+    "lng": 17.6
+  },
+  {
+    "code": "YW57",
+    "name": "Mądrzechowskie",
+    "lat": 54.13333333333333,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW58",
+    "name": "Mielonek",
+    "lat": 53.93333333333333,
+    "lng": 17.45
+  },
+  {
+    "code": "YW59",
+    "name": "Mikorowo ",
+    "lat": 54.4,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "YW60",
+    "name": "Miłaczewo",
+    "lat": 54.10516666666667,
+    "lng": 17.045666666666666
+  },
+  {
+    "code": "YW62",
+    "name": "Niezabyszewskie",
+    "lat": 54.11666666666667,
+    "lng": 17.416666666666668
+  },
+  {
+    "code": "YW63",
+    "name": "Obrowo Duże",
+    "lat": 54.25,
+    "lng": 17.6
+  },
+  {
+    "code": "YW64",
+    "name": "Obrowo Małe",
+    "lat": 54.25,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "YW65",
+    "name": "Odnoga",
+    "lat": 54.31666666666667,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "YW66",
+    "name": "Okunie (Okolno) ",
+    "lat": 54.06,
+    "lng": 17.514833333333332
+  },
+  {
+    "code": "YW67",
+    "name": "Orle",
+    "lat": 54.01866666666667,
+    "lng": 17.066833333333335
+  },
+  {
+    "code": "YW68",
+    "name": "Osiecko",
+    "lat": 54.21666666666667,
+    "lng": 17.383333333333333
+  },
+  {
+    "code": "YW69",
+    "name": "Osowo Duże",
+    "lat": 53.96666666666667,
+    "lng": 17.366666666666667
+  },
+  {
+    "code": "YW70",
+    "name": "Pajerskie",
+    "lat": 53.983333333333334,
+    "lng": 16.85
+  },
+  {
+    "code": "YW71",
+    "name": "Parszczenica",
+    "lat": 53.916666666666664,
+    "lng": 17.45
+  },
+  {
+    "code": "YW72",
+    "name": "Piasek",
+    "lat": 54,
+    "lng": 17.116666666666667
+  },
+  {
+    "code": "YW73",
+    "name": "Piaszno Duże",
+    "lat": 54.016666666666666,
+    "lng": 17.316666666666666
+  },
+  {
+    "code": "YW74",
+    "name": "Piaszno Małe",
+    "lat": 54.083333333333336,
+    "lng": 17.35
+  },
+  {
+    "code": "YW75",
+    "name": "Piaszno ",
+    "lat": 54.083333333333336,
+    "lng": 17.35
+  },
+  {
+    "code": "YW76",
+    "name": "Pipionko(Pipenek)",
+    "lat": 54.016666666666666,
+    "lng": 17.6
+  },
+  {
+    "code": "YW77",
+    "name": "Prądzona",
+    "lat": 54,
+    "lng": 17.033333333333335
+  },
+  {
+    "code": "YW78",
+    "name": "Pyszne",
+    "lat": 54.093666666666664,
+    "lng": 17.50733333333333
+  },
+  {
+    "code": "YW79",
+    "name": "Ryńskie",
+    "lat": 54.05,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW80",
+    "name": "Rzepnica",
+    "lat": 54.016666666666666,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW81",
+    "name": "Siadło (Kuźmia)",
+    "lat": 54,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "YW82",
+    "name": "Sitno Duże",
+    "lat": 54.266666666666666,
+    "lng": 17.05
+  },
+  {
+    "code": "YW83",
+    "name": "Skąpe",
+    "lat": 54.05,
+    "lng": 17.05
+  },
+  {
+    "code": "YW84",
+    "name": "Skotawsko Wielkie",
+    "lat": 54.266666666666666,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "YW85",
+    "name": "Skotawsko Małe",
+    "lat": 54.28333333333333,
+    "lng": 17.05
+  },
+  {
+    "code": "YW86",
+    "name": "Słosienieckie Duże",
+    "lat": 53.93333333333333,
+    "lng": 17
+  },
+  {
+    "code": "YW87",
+    "name": "Słosienieckie Małe",
+    "lat": 53.95,
+    "lng": 16.966666666666665
+  },
+  {
+    "code": "YW88",
+    "name": "Smołowe",
+    "lat": 54.016666666666666,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "YW89",
+    "name": "Somińskie",
+    "lat": 54.016666666666666,
+    "lng": 17.633333333333333
+  },
+  {
+    "code": "YW90",
+    "name": "Stary Staw",
+    "lat": 54.196,
+    "lng": 17.55216666666667
+  },
+  {
+    "code": "YW91",
+    "name": "Stropno",
+    "lat": 54.016666666666666,
+    "lng": 17.65
+  },
+  {
+    "code": "YW92",
+    "name": "Studzieniczno",
+    "lat": 53.96666666666667,
+    "lng": 17
+  },
+  {
+    "code": "YW93",
+    "name": "Sumino",
+    "lat": 54.016666666666666,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "YW94",
+    "name": "Średnie (Wołcza M)",
+    "lat": 53.96666666666667,
+    "lng": 16.933333333333334
+  },
+  {
+    "code": "YW95",
+    "name": "Świeszyńskie",
+    "lat": 53.983333333333334,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "YW96",
+    "name": "Trzcinskie Duże",
+    "lat": 54.083333333333336,
+    "lng": 17.05
+  },
+  {
+    "code": "YW97",
+    "name": "Trzebielskie",
+    "lat": 54.18333333333333,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "YW98",
+    "name": "Trzebiatowskie Duże",
+    "lat": 54.06666666666667,
+    "lng": 17.266666666666666
+  },
+  {
+    "code": "YW99",
+    "name": "Trzebiatowskie Małe",
+    "lat": 54.06666666666667,
+    "lng": 17.25
+  },
+  {
+    "code": "YW100",
+    "name": "Trzebielskie",
+    "lat": 53.983333333333334,
+    "lng": 17.366666666666667
+  },
+  {
+    "code": "YW101",
+    "name": "Trzebiecz/Trzebierz",
+    "lat": 54.31666666666667,
+    "lng": 17.483333333333334
+  },
+  {
+    "code": "YW102",
+    "name": "Unichowskie",
+    "lat": 54.28333333333333,
+    "lng": 17.433333333333334
+  },
+  {
+    "code": "YW103",
+    "name": "Wałdowskie Małe",
+    "lat": 54.053666666666665,
+    "lng": 17.168166666666668
+  },
+  {
+    "code": "YW104",
+    "name": "Wałdowskie Wielkie",
+    "lat": 54.05,
+    "lng": 17.15
+  },
+  {
+    "code": "YW105",
+    "name": "Wiejskie",
+    "lat": 54.016666666666666,
+    "lng": 17.283333333333335
+  },
+  {
+    "code": "YW106",
+    "name": "Wiejskie",
+    "lat": 54.016666666666666,
+    "lng": 17.283333333333335
+  },
+  {
+    "code": "YW107",
+    "name": "Wołczyca",
+    "lat": 53.983333333333334,
+    "lng": 16.916666666666668
+  },
+  {
+    "code": "YW108",
+    "name": "Ząbinowickie",
+    "lat": 54.156,
+    "lng": 17.551333333333332
+  },
+  {
+    "code": "YW109",
+    "name": "Zielonka",
+    "lat": 54.03333333333333,
+    "lng": 17.116666666666667
+  },
+  {
+    "code": "YW110",
+    "name": "Żukowskie/Żukówko",
+    "lat": 54.21666666666667,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "YW112",
+    "name": "Studzieniczno",
+    "lat": 54.083333333333336,
+    "lng": 17.55
+  },
+  {
+    "code": "YW113",
+    "name": "Małe",
+    "lat": 54.03333333333333,
+    "lng": 17.05
+  },
+  {
+    "code": "YW114",
+    "name": "Jelenie Duże",
+    "lat": 54.25,
+    "lng": 17.683333333333334
+  },
+  {
+    "code": "YW115",
+    "name": "Fiszewskie",
+    "lat": 54.1,
+    "lng": 17.7
+  },
+  {
+    "code": "YW116",
+    "name": "Białe",
+    "lat": 54.03333333333333,
+    "lng": 17.216666666666665
+  },
+  {
+    "code": "CJ01",
+    "name": "Blewicz",
+    "lat": 53.93333333333333,
+    "lng": 17.8
+  },
+  {
+    "code": "CJ02",
+    "name": "Brzeźno",
+    "lat": 53.95,
+    "lng": 17.8
+  },
+  {
+    "code": "CJ03",
+    "name": "Charzykowskie ",
+    "lat": 53.766666666666666,
+    "lng": 17.05
+  },
+  {
+    "code": "CJ04",
+    "name": "Czarnogłowe / Czarnostowe",
+    "lat": 53.78333333333333,
+    "lng": 17.716666666666665
+  },
+  {
+    "code": "CJ05",
+    "name": "Długie",
+    "lat": 53.81666666666667,
+    "lng": 17.483333333333334
+  },
+  {
+    "code": "CJ06",
+    "name": "Duże Łowne",
+    "lat": 53.78333333333333,
+    "lng": 17.45
+  },
+  {
+    "code": "CJ07",
+    "name": "Duży Boryń",
+    "lat": 53.9,
+    "lng": 17.416666666666668
+  },
+  {
+    "code": "CJ08",
+    "name": "Dybrzyk/ Dybrzk",
+    "lat": 53.083333333333336,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "CJ09",
+    "name": "Gacno Duże ",
+    "lat": 53.78333333333333,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ10",
+    "name": "Gacno Małe ",
+    "lat": 53.78333333333333,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ11",
+    "name": "Gardliczno Duże",
+    "lat": 53.88333333333333,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ12",
+    "name": "Gardliczno Małe",
+    "lat": 53.88333333333333,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ13",
+    "name": "Głuche Małe",
+    "lat": 53.95,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ14",
+    "name": "Głuche Wielkie ",
+    "lat": 53.96666666666667,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ15",
+    "name": "Główka",
+    "lat": 53.8,
+    "lng": 17.566666666666666
+  },
+  {
+    "code": "CJ16",
+    "name": "Jeleń ",
+    "lat": 53.81666666666667,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "CJ17",
+    "name": "Karsińskie",
+    "lat": 53.083333333333336,
+    "lng": 17.05
+  },
+  {
+    "code": "CJ18",
+    "name": "Kiełpinek/Kiełpińskie",
+    "lat": 53.88333333333333,
+    "lng": 17.316666666666666
+  },
+  {
+    "code": "CJ19",
+    "name": "Kły",
+    "lat": 53.93333333333333,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "CJ20",
+    "name": "Kosobudno",
+    "lat": 53.083333333333336,
+    "lng": 17.633333333333333
+  },
+  {
+    "code": "CJ21",
+    "name": "Kruszyńskie",
+    "lat": 54,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "CJ22",
+    "name": "Krzywce Małe /Krzywe Mł",
+    "lat": 53.81666666666667,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ23",
+    "name": "Krzywce Wielkie/ Krzywe Wlk.",
+    "lat": 53.083333333333336,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ24",
+    "name": "Laska",
+    "lat": 53.916666666666664,
+    "lng": 17.05
+  },
+  {
+    "code": "CJ25",
+    "name": "Leśno Dolne",
+    "lat": 53.93333333333333,
+    "lng": 17.7
+  },
+  {
+    "code": "CJ26",
+    "name": "Leśno Górne",
+    "lat": 53.95,
+    "lng": 17.7
+  },
+  {
+    "code": "CJ27",
+    "name": "Lichnowskie",
+    "lat": 53.65,
+    "lng": 17.6
+  },
+  {
+    "code": "CJ28",
+    "name": "Łąckie",
+    "lat": 53.85,
+    "lng": 17.566666666666666
+  },
+  {
+    "code": "CJ29",
+    "name": "Małe Głuche",
+    "lat": 53.81666666666667,
+    "lng": 17.466666666666665
+  },
+  {
+    "code": "CJ30",
+    "name": "Małe Łowne",
+    "lat": 53.8,
+    "lng": 17.45
+  },
+  {
+    "code": "CJ31",
+    "name": "Małe Zielone",
+    "lat": 53.88333333333333,
+    "lng": 17.416666666666668
+  },
+  {
+    "code": "CJ32",
+    "name": "Małołąckie",
+    "lat": 53.86666666666667,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ33",
+    "name": "Mętno",
+    "lat": 53.78333333333333,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "CJ34",
+    "name": "Mielnica",
+    "lat": 53.8,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "CJ35",
+    "name": "Milachowo",
+    "lat": 53.93333333333333,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ36",
+    "name": "Młosino Małe",
+    "lat": 53.93333333333333,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "CJ37",
+    "name": "Młosino Wielkie",
+    "lat": 53.95,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "CJ38",
+    "name": "Nawionek",
+    "lat": 53.9,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "CJ39",
+    "name": "Niedźwiedzie ",
+    "lat": 53.75,
+    "lng": 17.533333333333335
+  },
+  {
+    "code": "CJ40",
+    "name": "Nierybno",
+    "lat": 53.81666666666667,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ41",
+    "name": "Nierzostowo",
+    "lat": 53.9,
+    "lng": 17.383333333333333
+  },
+  {
+    "code": "CJ42",
+    "name": "Ostrowite ",
+    "lat": 53.75,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "CJ43",
+    "name": "Ostrowite ",
+    "lat": 53.8,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "CJ44",
+    "name": "Parzyn",
+    "lat": 53.96666666666667,
+    "lng": 17.633333333333333
+  },
+  {
+    "code": "CJ45",
+    "name": "Piesno",
+    "lat": 53.86666666666667,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ46",
+    "name": "Płęsno",
+    "lat": 53.8,
+    "lng": 17.55
+  },
+  {
+    "code": "CJ48",
+    "name": "Skąpe",
+    "lat": 53.9,
+    "lng": 17.8
+  },
+  {
+    "code": "CJ49",
+    "name": "Skrzynka/Skrzynki",
+    "lat": 53.8,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "CJ50",
+    "name": "Śluza",
+    "lat": 53.916666666666664,
+    "lng": 17.45
+  },
+  {
+    "code": "CJ51",
+    "name": "Somińskie",
+    "lat": 54.016666666666666,
+    "lng": 17.633333333333333
+  },
+  {
+    "code": "CJ52",
+    "name": "Suszek",
+    "lat": 53.71666666666667,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "CJ53",
+    "name": "Śpierewnik",
+    "lat": 53.7,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "CJ54",
+    "name": "Świdno",
+    "lat": 53.75,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "CJ55",
+    "name": "Trzemeszno",
+    "lat": 53.8,
+    "lng": 17.7
+  },
+  {
+    "code": "CJ56",
+    "name": "Warszyn",
+    "lat": 53.93333333333333,
+    "lng": 17.633333333333333
+  },
+  {
+    "code": "CJ58",
+    "name": "Wieckie",
+    "lat": 53.86666666666667,
+    "lng": 18.05
+  },
+  {
+    "code": "CJ59",
+    "name": "Wielkie Zielone",
+    "lat": 53.88333333333333,
+    "lng": 17.4
+  },
+  {
+    "code": "CJ60",
+    "name": "Witoczno",
+    "lat": 53.86666666666667,
+    "lng": 17.05
+  },
+  {
+    "code": "CJ62",
+    "name": "Zielone ",
+    "lat": 53.81666666666667,
+    "lng": 17.583333333333332
+  },
+  {
+    "code": "CJ63",
+    "name": "Zmarłe",
+    "lat": 53.916666666666664,
+    "lng": 17.516666666666666
+  },
+  {
+    "code": "CJ64",
+    "name": "Życheckie",
+    "lat": 53.083333333333336,
+    "lng": 17.35
+  },
+  {
+    "code": "CJ65",
+    "name": "Ostrowite ",
+    "lat": 53.63333333333333,
+    "lng": 17.65
+  },
+  {
+    "code": "CJ66",
+    "name": "Duże Głuche ",
+    "lat": 53.81666666666667,
+    "lng": 17.433333333333334
+  },
+  {
+    "code": "UG01",
+    "name": "Bronisława",
+    "lat": 54.13333333333333,
+    "lng": 18.433333333333334
+  },
+  {
+    "code": "UG02",
+    "name": "Głęboczko",
+    "lat": 54.22366666666667,
+    "lng": 18.309
+  },
+  {
+    "code": "UG03",
+    "name": "Goszyńskie (Straszyńskie)",
+    "lat": 54.28333333333333,
+    "lng": 18.55
+  },
+  {
+    "code": "UG04",
+    "name": "Klonowskie",
+    "lat": 54.2,
+    "lng": 18.3
+  },
+  {
+    "code": "UG05",
+    "name": "Łąkie ( Bielkowskie)",
+    "lat": 54.266666666666666,
+    "lng": 18.483333333333334
+  },
+  {
+    "code": "UG06",
+    "name": "Łapińskie dolne",
+    "lat": 54.28333333333333,
+    "lng": 18.45
+  },
+  {
+    "code": "UG09",
+    "name": "Otomińskie",
+    "lat": 54.31666666666667,
+    "lng": 18.05
+  },
+  {
+    "code": "UG10",
+    "name": "Przywidzkie Małe",
+    "lat": 54.18333333333333,
+    "lng": 18.316666666666666
+  },
+  {
+    "code": "UG11",
+    "name": "Przywidzkie Wielkie",
+    "lat": 54.2,
+    "lng": 18.366666666666667
+  },
+  {
+    "code": "UG12",
+    "name": "Sobowidzkie",
+    "lat": 54.13333333333333,
+    "lng": 18.6
+  },
+  {
+    "code": "UG13",
+    "name": "Ząbrowskie ( Ząbrsko), Marszewskie",
+    "lat": 54.233333333333334,
+    "lng": 18.35
+  },
+  {
+    "code": "UG14",
+    "name": "Łęckie (Łąki) Łąkie",
+    "lat": 54.016666666666666,
+    "lng": 18.233333333333334
+  },
+  {
+    "code": "RU01",
+    "name": "Chojnackie/Chojnickie",
+    "lat": 54.28333333333333,
+    "lng": 17.716666666666665
+  },
+  {
+    "code": "RU02",
+    "name": "Białe",
+    "lat": 54.333333333333336,
+    "lng": 18.1
+  },
+  {
+    "code": "RU03",
+    "name": "Białe",
+    "lat": 54.4,
+    "lng": 17.9
+  },
+  {
+    "code": "RU04",
+    "name": "Białe",
+    "lat": 54.36666666666667,
+    "lng": 18.183333333333334
+  },
+  {
+    "code": "RU05",
+    "name": "Brodno Małe",
+    "lat": 54.3,
+    "lng": 18.116666666666667
+  },
+  {
+    "code": "RU06",
+    "name": "Brodno Wielkie",
+    "lat": 54.266666666666666,
+    "lng": 18.1
+  },
+  {
+    "code": "RU07",
+    "name": "Bukowskie",
+    "lat": 54.36666666666667,
+    "lng": 17.95
+  },
+  {
+    "code": "RU08",
+    "name": "Czarne",
+    "lat": 54.38333333333333,
+    "lng": 18.2
+  },
+  {
+    "code": "RU09",
+    "name": "Dąbrowskie",
+    "lat": 54.2,
+    "lng": 18
+  },
+  {
+    "code": "RU11",
+    "name": "Długie",
+    "lat": 54.31666666666667,
+    "lng": 18
+  },
+  {
+    "code": "RU12",
+    "name": "Długie",
+    "lat": 54.2,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU13",
+    "name": "Długie",
+    "lat": 54.35,
+    "lng": 17.85
+  },
+  {
+    "code": "RU14",
+    "name": "Głębokie",
+    "lat": 54.333333333333336,
+    "lng": 18.3
+  },
+  {
+    "code": "RU15",
+    "name": "Gowidlińskie",
+    "lat": 54.3,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "RU16",
+    "name": "Guścierz Duży",
+    "lat": 54.21666666666667,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "RU17",
+    "name": "Junno",
+    "lat": 54.4,
+    "lng": 17.9
+  },
+  {
+    "code": "RU18",
+    "name": "Kamienickie",
+    "lat": 54.4,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "RU19",
+    "name": "Kamienne",
+    "lat": 54.416666666666664,
+    "lng": 18
+  },
+  {
+    "code": "RU20",
+    "name": "Kamionka",
+    "lat": 54.25,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "RU21",
+    "name": "Karczemne",
+    "lat": 54.31666666666667,
+    "lng": 18.183333333333334
+  },
+  {
+    "code": "RU22",
+    "name": "Karlikowskie",
+    "lat": 54.31666666666667,
+    "lng": 18.3
+  },
+  {
+    "code": "RU23",
+    "name": "Kczewskie",
+    "lat": 54.38333333333333,
+    "lng": 18.316666666666666
+  },
+  {
+    "code": "RU24",
+    "name": "Klasztorne Dużę",
+    "lat": 54.35,
+    "lng": 18.183333333333334
+  },
+  {
+    "code": "RU25",
+    "name": "Klasztorne Małe",
+    "lat": 54.333333333333336,
+    "lng": 18.183333333333334
+  },
+  {
+    "code": "RU26",
+    "name": "Kłodno",
+    "lat": 54.31666666666667,
+    "lng": 18.1
+  },
+  {
+    "code": "RU27",
+    "name": "Kniewo",
+    "lat": 54.2,
+    "lng": 18.066666666666666
+  },
+  {
+    "code": "RU28",
+    "name": "Kotynia Kołynia",
+    "lat": 54.18333333333333,
+    "lng": 17.8
+  },
+  {
+    "code": "RU29",
+    "name": "Lubowisko",
+    "lat": 54.18333333333333,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "RU30",
+    "name": "Lubygość",
+    "lat": 54.4,
+    "lng": 17.983333333333334
+  },
+  {
+    "code": "RU31",
+    "name": "Łapalickie",
+    "lat": 54.35,
+    "lng": 18.1
+  },
+  {
+    "code": "RU32",
+    "name": "Łapino Górne",
+    "lat": 54.266666666666666,
+    "lng": 18.416666666666668
+  },
+  {
+    "code": "RU33",
+    "name": "Łąkie Wielkie",
+    "lat": 54.36666666666667,
+    "lng": 18.116666666666667
+  },
+  {
+    "code": "RU34",
+    "name": "Łączyńskie",
+    "lat": 54.266666666666666,
+    "lng": 18
+  },
+  {
+    "code": "RU35",
+    "name": "Okno",
+    "lat": 54.25,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "RU36",
+    "name": "Mausz",
+    "lat": 54.2,
+    "lng": 17.733333333333334
+  },
+  {
+    "code": "RU37",
+    "name": "Mezowskie",
+    "lat": 54.3,
+    "lng": 18.25
+  },
+  {
+    "code": "RU38",
+    "name": "Mienino",
+    "lat": 54.35,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "RU39",
+    "name": "Moczydło",
+    "lat": 54.233333333333334,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "RU40",
+    "name": "Mściszewickie",
+    "lat": 54.25,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU43",
+    "name": "Odnoga",
+    "lat": 54.416666666666664,
+    "lng": 17.95
+  },
+  {
+    "code": "RU45",
+    "name": "Osowskie",
+    "lat": 54.43333333333333,
+    "lng": 18.433333333333334
+  },
+  {
+    "code": "RU46",
+    "name": "Ostrowickie/Ostrowite",
+    "lat": 54.28333333333333,
+    "lng": 17.716666666666665
+  },
+  {
+    "code": "RU47",
+    "name": "Ostrzyckie",
+    "lat": 54.25,
+    "lng": 18.1
+  },
+  {
+    "code": "RU48",
+    "name": "Osuszyno",
+    "lat": 54.36666666666667,
+    "lng": 18.066666666666666
+  },
+  {
+    "code": "RU49",
+    "name": "Patulskie",
+    "lat": 54.21666666666667,
+    "lng": 18.05
+  },
+  {
+    "code": "RU51",
+    "name": "Połęczyńskie",
+    "lat": 54.2,
+    "lng": 18.233333333333334
+  },
+  {
+    "code": "RU52",
+    "name": "Potęgowskie",
+    "lat": 54.416666666666664,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "RU53",
+    "name": "Pręgożyno",
+    "lat": 54.3,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU54",
+    "name": "Raduńskie Dolne",
+    "lat": 54.3,
+    "lng": 18.05
+  },
+  {
+    "code": "RU55",
+    "name": "Raduńskie Górne",
+    "lat": 54.233333333333334,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "RU56",
+    "name": "Rekowo",
+    "lat": 54.31666666666667,
+    "lng": 18.116666666666667
+  },
+  {
+    "code": "RU57",
+    "name": "Reskowskie",
+    "lat": 54.333333333333336,
+    "lng": 18.05
+  },
+  {
+    "code": "RU58",
+    "name": "Rąty",
+    "lat": 54.25,
+    "lng": 18.166666666666668
+  },
+  {
+    "code": "RU59",
+    "name": "Sianowskie",
+    "lat": 54.36666666666667,
+    "lng": 18.083333333333332
+  },
+  {
+    "code": "RU60",
+    "name": "Sitno",
+    "lat": 54.333333333333336,
+    "lng": 18.3
+  },
+  {
+    "code": "RU61",
+    "name": "Suminko",
+    "lat": 54.18333333333333,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "RU62",
+    "name": "Skrzynka",
+    "lat": 54.28333333333333,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "RU63",
+    "name": "Stacinko",
+    "lat": 54.266666666666666,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU64",
+    "name": "Stężyckie",
+    "lat": 54.18333333333333,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "RU66",
+    "name": "Święte",
+    "lat": 54.4,
+    "lng": 17.85
+  },
+  {
+    "code": "RU67",
+    "name": "Świniewo",
+    "lat": 54.333333333333336,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "RU68",
+    "name": "Trzcinowo/ Trzono",
+    "lat": 54.35,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU69",
+    "name": "Trzebocińskie",
+    "lat": 54.28333333333333,
+    "lng": 17.8
+  },
+  {
+    "code": "RU70",
+    "name": "Trzemeszno",
+    "lat": 54.31666666666667,
+    "lng": 17.733333333333334
+  },
+  {
+    "code": "RU72",
+    "name": "Tuchlińskie",
+    "lat": 54.3,
+    "lng": 17.833333333333332
+  },
+  {
+    "code": "RU73",
+    "name": "Tuchomskie",
+    "lat": 54.43333333333333,
+    "lng": 18.35
+  },
+  {
+    "code": "RU74",
+    "name": "Warlińskie",
+    "lat": 54.28333333333333,
+    "lng": 17.733333333333334
+  },
+  {
+    "code": "RU75",
+    "name": "Węgorzyno",
+    "lat": 54.233333333333334,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "RU76",
+    "name": "Wielkie",
+    "lat": 54.333333333333336,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "RU77",
+    "name": "Wyrobisko Tuchom",
+    "lat": 54.416666666666664,
+    "lng": 18.4
+  },
+  {
+    "code": "RU78",
+    "name": "Wysockie",
+    "lat": 54.416666666666664,
+    "lng": 18.45
+  },
+  {
+    "code": "RU79",
+    "name": "Glinne",
+    "lat": 54.35,
+    "lng": 18.183333333333334
+  },
+  {
+    "code": "RU81",
+    "name": "Przodkowskie / Księże",
+    "lat": 54.38333333333333,
+    "lng": 18.283333333333335
+  },
+  {
+    "code": "RU83",
+    "name": "Dzierżążno",
+    "lat": 54.31666666666667,
+    "lng": 18.266666666666666
+  },
+  {
+    "code": "RU84",
+    "name": "Duże Kiełpino",
+    "lat": 54.28333333333333,
+    "lng": 18.216666666666665
+  },
+  {
+    "code": "RU85",
+    "name": "Bąckie",
+    "lat": 54.38333333333333,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "RU87",
+    "name": "Borucińskie",
+    "lat": 54.28333333333333,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "RU88",
+    "name": "Żuromino",
+    "lat": 54.233333333333334,
+    "lng": 17.95
+  },
+  {
+    "code": "RU90",
+    "name": "Bukrzyno Duże",
+    "lat": 54.25,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "RU91",
+    "name": "Bukrzyno Małe",
+    "lat": 54.25,
+    "lng": 18.05
+  },
+  {
+    "code": "YA01",
+    "name": "Barkocińskie",
+    "lat": 54.11666666666667,
+    "lng": 18.133333333333333
+  },
+  {
+    "code": "YA02",
+    "name": "Białe",
+    "lat": 54.05,
+    "lng": 17.95
+  },
+  {
+    "code": "YA03",
+    "name": "Biebrowo",
+    "lat": 54.03333333333333,
+    "lng": 17.783333333333335
+  },
+  {
+    "code": "YA04",
+    "name": "Bielawy",
+    "lat": 54.05,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA05",
+    "name": "Borowe",
+    "lat": 54.15,
+    "lng": 17.85
+  },
+  {
+    "code": "YA06",
+    "name": "Brzęczek ( Jarzębce)",
+    "lat": 54.03333333333333,
+    "lng": 18.3
+  },
+  {
+    "code": "YA07",
+    "name": "Brzezionka/Brzeźno",
+    "lat": 53.96666666666667,
+    "lng": 17.8
+  },
+  {
+    "code": "YA08",
+    "name": "Cheb",
+    "lat": 54.016666666666666,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "YA09",
+    "name": "Czerwonko",
+    "lat": 53.983333333333334,
+    "lng": 18.066666666666666
+  },
+  {
+    "code": "YA10",
+    "name": "Czyste",
+    "lat": 53.96666666666667,
+    "lng": 17.95
+  },
+  {
+    "code": "YA11",
+    "name": "Czyzon",
+    "lat": 53.983333333333334,
+    "lng": 18.25
+  },
+  {
+    "code": "YA12",
+    "name": "Debrzyno",
+    "lat": 54.06666666666667,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "YA13",
+    "name": "Deka",
+    "lat": 54.06666666666667,
+    "lng": 18.316666666666666
+  },
+  {
+    "code": "YA14",
+    "name": "Długie",
+    "lat": 53.96666666666667,
+    "lng": 18.116666666666667
+  },
+  {
+    "code": "YA16",
+    "name": "Długie",
+    "lat": 54.016666666666666,
+    "lng": 17.983333333333334
+  },
+  {
+    "code": "YA17",
+    "name": "Długie Wielkie",
+    "lat": 54.15,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "YA18",
+    "name": "Dobrogoszcz",
+    "lat": 54.13333333333333,
+    "lng": 18.05
+  },
+  {
+    "code": "YA19",
+    "name": "Drzęczno",
+    "lat": 53.96666666666667,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA20",
+    "name": "Duże",
+    "lat": 54.03333333333333,
+    "lng": 18.2
+  },
+  {
+    "code": "YA21",
+    "name": "Dywańskie",
+    "lat": 54.03333333333333,
+    "lng": 17.65
+  },
+  {
+    "code": "YA22",
+    "name": "Gatno",
+    "lat": 54.05,
+    "lng": 18.083333333333332
+  },
+  {
+    "code": "YA23",
+    "name": "Garczonki",
+    "lat": 54.059666666666665,
+    "lng": 18.251166666666666
+  },
+  {
+    "code": "YA24",
+    "name": "Garczyn",
+    "lat": 54.11666666666667,
+    "lng": 17.916666666666668
+  },
+  {
+    "code": "YA25",
+    "name": "Grabowo",
+    "lat": 54.06666666666667,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA26",
+    "name": "Gołuń",
+    "lat": 54,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "YA28",
+    "name": "Grabowskie",
+    "lat": 54.13333333333333,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "YA29",
+    "name": "Graniczne",
+    "lat": 54.11483333333333,
+    "lng": 17.8795
+  },
+  {
+    "code": "YA30",
+    "name": "Grzybno",
+    "lat": 53.916666666666664,
+    "lng": 18.05
+  },
+  {
+    "code": "YA31",
+    "name": "Hutowe",
+    "lat": 54.05,
+    "lng": 18.116666666666667
+  },
+  {
+    "code": "YA32",
+    "name": "Jelenie",
+    "lat": 54.016666666666666,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "YA34",
+    "name": "Kamionki Małe",
+    "lat": 54.15,
+    "lng": 18.2
+  },
+  {
+    "code": "YA35",
+    "name": "Karpno (Stare Karpno)",
+    "lat": 54.11666666666667,
+    "lng": 17.8
+  },
+  {
+    "code": "YA36",
+    "name": "Kozielnia",
+    "lat": 53.983333333333334,
+    "lng": 18.083333333333332
+  },
+  {
+    "code": "YA37",
+    "name": "Kramsko Duże",
+    "lat": 54.05,
+    "lng": 1756
+  },
+  {
+    "code": "YA38",
+    "name": "Kramsko Małe",
+    "lat": 54.05,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "YA39",
+    "name": "Krąg",
+    "lat": 53.96666666666667,
+    "lng": 18.1
+  },
+  {
+    "code": "YA40",
+    "name": "Liniewskie",
+    "lat": 54.06666666666667,
+    "lng": 18.2
+  },
+  {
+    "code": "YA41",
+    "name": "Lipno",
+    "lat": 54,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA42",
+    "name": "Lubiszewskie",
+    "lat": 54.13333333333333,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "YA43",
+    "name": "Mieliste",
+    "lat": 54.05,
+    "lng": 17.983333333333334
+  },
+  {
+    "code": "YA44",
+    "name": "Mielnica",
+    "lat": 54.1,
+    "lng": 17.916666666666668
+  },
+  {
+    "code": "YA45",
+    "name": "Osty",
+    "lat": 54.05,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA47",
+    "name": "Osuszyno (Szarlota)",
+    "lat": 54.1,
+    "lng": 17.95
+  },
+  {
+    "code": "YA48",
+    "name": "Piaseczno",
+    "lat": 54.04416666666667,
+    "lng": 18.203
+  },
+  {
+    "code": "YA49",
+    "name": "Płocice (Wielkie)",
+    "lat": 54.1,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "YA50",
+    "name": "Płocice",
+    "lat": 54.083333333333336,
+    "lng": 17.85
+  },
+  {
+    "code": "YA51",
+    "name": "Polaszkowskie",
+    "lat": 54.03333333333333,
+    "lng": 18.15
+  },
+  {
+    "code": "YA53",
+    "name": "Prusionki Duże/Prusiki Wielkie",
+    "lat": 53.96666666666667,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA55",
+    "name": "Przywłóczno",
+    "lat": 54,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA58",
+    "name": "Puc",
+    "lat": 54.13333333333333,
+    "lng": 18.066666666666666
+  },
+  {
+    "code": "YA59",
+    "name": "Radolne",
+    "lat": 54.016666666666666,
+    "lng": 17.9
+  },
+  {
+    "code": "YA60",
+    "name": "Raduń ( Raduńskie)",
+    "lat": 53.96666666666667,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "YA61",
+    "name": "Sarnowicze Małe",
+    "lat": 54.05,
+    "lng": 17.683333333333334
+  },
+  {
+    "code": "YA62",
+    "name": "Sarnowicze Wielkie",
+    "lat": 54.03333333333333,
+    "lng": 17.7
+  },
+  {
+    "code": "YA63",
+    "name": "Schodno",
+    "lat": 54.05,
+    "lng": 17.85
+  },
+  {
+    "code": "YA64",
+    "name": "Skrzynki Duże",
+    "lat": 54.1,
+    "lng": 17.8
+  },
+  {
+    "code": "YA65",
+    "name": "Sobąckie / Sobącz",
+    "lat": 54.05,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "YA66",
+    "name": "Sominko",
+    "lat": 54.083333333333336,
+    "lng": 17.883333333333333
+  },
+  {
+    "code": "YA67",
+    "name": "Słupinko",
+    "lat": 54.016666666666666,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "YA69",
+    "name": "Słupino",
+    "lat": 54.016666666666666,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA70",
+    "name": "Starowieckie",
+    "lat": 54.1,
+    "lng": 18.316666666666666
+  },
+  {
+    "code": "YA71",
+    "name": "Strugi",
+    "lat": 54.6,
+    "lng": 18.433333333333334
+  },
+  {
+    "code": "YA72",
+    "name": "Strupino",
+    "lat": 54.03333333333333,
+    "lng": 17.983333333333334
+  },
+  {
+    "code": "YA73",
+    "name": "Sudomie",
+    "lat": 54.1,
+    "lng": 17.9
+  },
+  {
+    "code": "YA75",
+    "name": "Trawiki /Trawice",
+    "lat": 54.05,
+    "lng": 17.733333333333334
+  },
+  {
+    "code": "YA76",
+    "name": "Wdzydze",
+    "lat": 54,
+    "lng": 17.9
+  },
+  {
+    "code": "YA77",
+    "name": "Wieckie",
+    "lat": 54.06666666666667,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "YA78",
+    "name": "Wielewskie",
+    "lat": 53.916666666666664,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA79",
+    "name": "Wielkie",
+    "lat": 53.96666666666667,
+    "lng": 18.25
+  },
+  {
+    "code": "YA81",
+    "name": "Wieprznickie",
+    "lat": 54.15,
+    "lng": 17.916666666666668
+  },
+  {
+    "code": "YA82",
+    "name": "Wierzchul",
+    "lat": 54,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA83",
+    "name": "Wierzysko",
+    "lat": 54.1,
+    "lng": 18
+  },
+  {
+    "code": "YA84",
+    "name": "Wygonin",
+    "lat": 53.95,
+    "lng": 18.133333333333333
+  },
+  {
+    "code": "YA85",
+    "name": "Wyrowno",
+    "lat": 54.06666666666667,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "YA86",
+    "name": "Wyspa",
+    "lat": 53.916666666666664,
+    "lng": 18.066666666666666
+  },
+  {
+    "code": "YA87",
+    "name": "Zagnanie",
+    "lat": 54.06666666666667,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "YA88",
+    "name": "Zakrzewie",
+    "lat": 54.05,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "YA89",
+    "name": "Żołnowo",
+    "lat": 54.083333333333336,
+    "lng": 17.9
+  },
+  {
+    "code": "YA90",
+    "name": "Rzuno",
+    "lat": 54,
+    "lng": 17.766666666666666
+  },
+  {
+    "code": "YA91",
+    "name": "Kotel",
+    "lat": 54.016666666666666,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "YA92",
+    "name": "Chądzie",
+    "lat": 54,
+    "lng": 18
+  },
+  {
+    "code": "YA93",
+    "name": "Gostomko",
+    "lat": 54.15,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "EB01",
+    "name": "Lubowidz Mały",
+    "lat": 54.53333333333333,
+    "lng": 17.816666666666666
+  },
+  {
+    "code": "EB02",
+    "name": "Lubowidzkie",
+    "lat": 54.55,
+    "lng": 17.083333333333332
+  },
+  {
+    "code": "EB03",
+    "name": "Oskowo",
+    "lat": 54.38333333333333,
+    "lng": 17.066666666666666
+  },
+  {
+    "code": "EB04",
+    "name": "Sarbsko",
+    "lat": 54.75,
+    "lng": 17.616666666666667
+  },
+  {
+    "code": "EB05",
+    "name": "Żurawie (Brody)",
+    "lat": 54.45,
+    "lng": 17.683333333333334
+  },
+  {
+    "code": "PK01",
+    "name": "Dobre",
+    "lat": 54.71666666666667,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "SL02",
+    "name": "Darnowskie Darnowo",
+    "lat": 54.13333333333333,
+    "lng": 16.916666666666668
+  },
+  {
+    "code": "SL03",
+    "name": "Dąbrówka",
+    "lat": 54.05,
+    "lng": 17.366666666666667
+  },
+  {
+    "code": "SL04",
+    "name": "Dobre (Dobrskie)",
+    "lat": 54.38333333333333,
+    "lng": 17.366666666666667
+  },
+  {
+    "code": "SL05",
+    "name": "Dołgie Duże",
+    "lat": 54.68333333333333,
+    "lng": 17.183333333333334
+  },
+  {
+    "code": "SL06",
+    "name": "Gardno",
+    "lat": 54.65,
+    "lng": 17.116666666666667
+  },
+  {
+    "code": "SL07",
+    "name": "Głębokie",
+    "lat": 54.266666666666666,
+    "lng": 17.383333333333333
+  },
+  {
+    "code": "SL08",
+    "name": "Krzynia (Krzemień)",
+    "lat": 54.03333333333333,
+    "lng": 17.2
+  },
+  {
+    "code": "SL10",
+    "name": "Kunitowskie",
+    "lat": 54.28333333333333,
+    "lng": 17.366666666666667
+  },
+  {
+    "code": "SL12",
+    "name": "Lipnik / Nakło",
+    "lat": 54.2,
+    "lng": 16.95
+  },
+  {
+    "code": "SL13",
+    "name": "Łebsko",
+    "lat": 54.71666666666667,
+    "lng": 17.383333333333333
+  },
+  {
+    "code": "SL14",
+    "name": "Modła",
+    "lat": 54.53333333333333,
+    "lng": 16.783333333333335
+  },
+  {
+    "code": "SL15",
+    "name": "Obłęskie (Obłęża)",
+    "lat": 54.233333333333334,
+    "lng": 16.916666666666668
+  },
+  {
+    "code": "SL17",
+    "name": "Przyjezierze",
+    "lat": 54.016666666666666,
+    "lng": 16.916666666666668
+  },
+  {
+    "code": "SL18",
+    "name": "Rybiec",
+    "lat": 54.28333333333333,
+    "lng": 17.15
+  },
+  {
+    "code": "SL19",
+    "name": "Ścięgnica",
+    "lat": 54.31666666666667,
+    "lng": 16.816666666666666
+  },
+  {
+    "code": "WJ01",
+    "name": "Bieszkowickie",
+    "lat": 54.516666666666666,
+    "lng": 18.283333333333335
+  },
+  {
+    "code": "WJ02",
+    "name": "Borowo",
+    "lat": 54.53333333333333,
+    "lng": 18.266666666666666
+  },
+  {
+    "code": "WJ03",
+    "name": "Choczewskie",
+    "lat": 54.733333333333334,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "WJ04",
+    "name": "Czarne",
+    "lat": 54.65,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "WJ05",
+    "name": "Dąbrze",
+    "lat": 54.65,
+    "lng": 17.966666666666665
+  },
+  {
+    "code": "WJ06",
+    "name": "Folwarczne",
+    "lat": 54.416666666666664,
+    "lng": 17.883333333333333
+  },
+  {
+    "code": "WJ07",
+    "name": "Kamień",
+    "lat": 54.46666666666667,
+    "lng": 18.266666666666666
+  },
+  {
+    "code": "WJ08",
+    "name": "Lewinko",
+    "lat": 54.45,
+    "lng": 18.05
+  },
+  {
+    "code": "WJ09",
+    "name": "Marchowo( wschodnie i zachodnie)",
+    "lat": 54.46666666666667,
+    "lng": 18.316666666666666
+  },
+  {
+    "code": "WJ10",
+    "name": "Miłoszewskie",
+    "lat": 54.45,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "WJ11",
+    "name": "Mulk ( jez.Kielno)",
+    "lat": 54.45,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "WJ12",
+    "name": "Otalżyno",
+    "lat": 54.45,
+    "lng": 18.2
+  },
+  {
+    "code": "WJ13",
+    "name": "Orle",
+    "lat": 54.63333333333333,
+    "lng": 18.15
+  },
+  {
+    "code": "WJ14",
+    "name": "Orzechowo",
+    "lat": 54.43333333333333,
+    "lng": 18.033333333333335
+  },
+  {
+    "code": "WJ15",
+    "name": "Salino ( Salińskie)",
+    "lat": 54.68333333333333,
+    "lng": 17.933333333333334
+  },
+  {
+    "code": "WJ16",
+    "name": "Strzepcz",
+    "lat": 54.45,
+    "lng": 18.016666666666666
+  },
+  {
+    "code": "WJ17",
+    "name": "Trepczykowo",
+    "lat": 54.43333333333333,
+    "lng": 17.866666666666667
+  },
+  {
+    "code": "WJ18",
+    "name": "Wygoda",
+    "lat": 54.516666666666666,
+    "lng": 18.233333333333334
+  },
+  {
+    "code": "WJ19",
+    "name": "Wysoka (Wycztok)",
+    "lat": 54.45,
+    "lng": 18.25
+  },
+  {
+    "code": "WJ20",
+    "name": "Wyspowo",
+    "lat": 54.55,
+    "lng": 18.3
+  },
+  {
+    "code": "WJ21",
+    "name": "Zawiad ( Zawiat)",
+    "lat": 54.05,
+    "lng": 18.283333333333335
+  },
+  {
+    "code": "WJ22",
+    "name": "Żarnowieckie",
+    "lat": 54.75,
+    "lng": 18.05
+  },
+  {
+    "code": "WJ23",
+    "name": "Czarne",
+    "lat": 54.24,
+    "lng": 17.54
+  }
+]
