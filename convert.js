@@ -34,6 +34,10 @@ const formattedLines = lines
     // line separators
     return line[6] !== "N";
   })
+  .filter((line) => {
+    // deleted?
+    return !(line[8] || "").toLowerCase().includes("usunięte");
+  })
   .map((line) => {
     return {
       code: line[3],
