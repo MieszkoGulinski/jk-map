@@ -6,4 +6,6 @@ Uruchamianie mapy lokalnie:
 
 - `npm install` - instalacja bibliotek
 - `npm run dev` - uruchomienie serwera w trybie deweloperskim
-- `npm run build` - kompilacja w trybie produkcyjnym do folderu `dist`
+- `npm run build` - kompilacja w trybie produkcyjnym do folderu `docs`
+
+Ze względu na hosting ([GitHub Pages](https://pages.github.com/)) konieczne jest ustawienie parametru `base` w `vite.config.ts` ([link](https://github.com/vitejs/vite/discussions/13910#discussioncomment-6832557)).
