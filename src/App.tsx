@@ -1,5 +1,7 @@
 import { Circle, MapContainer, Popup, TileLayer } from "react-leaflet";
 import points from "./points.json";
+import Search from "./Search";
+import type { LabeledPoint } from "./types";
 
 function App() {
   return (
@@ -13,7 +15,7 @@ function App() {
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      {points.map((point) => (
+      {points.map((point: LabeledPoint) => (
         <Circle
           center={[point.lat, point.lng]}
           radius={25}
@@ -25,6 +27,7 @@ function App() {
           </Popup>
         </Circle>
       ))}
+      <Search points={points} />
     </MapContainer>
   );
 }

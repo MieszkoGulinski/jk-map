@@ -1,7 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
 }
 
 #root {
   height: 100vh;
+}
+
+#search {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background-color: white;
+  border-radius: 8px;
+  width: 200px;
+}
+
+#search input {
+  width: 100%;
+}
+
+#search-list {
+  padding: 2px;
+  max-height: 80vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
 }
