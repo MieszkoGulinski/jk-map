@@ -30,3 +30,11 @@ body {
   overflow-y: auto;
   overscroll-behavior: contain;
 }
+
+.search-item {
+  cursor: pointer;
+}
+
+.search-item:hover {
+  background-color: #f0f0f0;
+}
