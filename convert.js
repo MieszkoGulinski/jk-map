@@ -12,12 +12,23 @@ function convertCoordinates(coordinates) {
   // XX YY.ZZ means XX degrees and YY.ZZ minutes (ZZ decimal)
   // all coordinates are positive (northern and eastern hemispheres)
 
+  // As someone who entered the coordinates entered them into a spreadsheet
+  // as decimal numbers where the minutes part was placed after a decimal point,
+  // the trailing zero was truncated, so e.g 54 degrees 10 minutes turned into 54.1 instead of 54.10
+
   const [deg, min] = coordinates
     .toString()
     .trim()
     .replaceAll(" ", ",")
     .split(",")
-    .map((partStr) => parseFloat(partStr));
+    .map((partStr, index) => {
+      const num = parseFloat(partStr);
+      if (partStr.length === 1 && index === 1) {
+        // restore incorrectly truncated trailing zero (54.1 -> 54.10)
+        return num * 10;
+      }
+      return num;
+    });
 
   if (min === undefined) {
     return deg;
